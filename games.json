@@ -1,5 +1,29 @@
 [
   {
+    "id": 10,
+    "title": "Counter-Strike",
+    "searchKeys": "counter-strike 카운터스트라이크 카스1.6",
+    "genre": "액션 / FPS",
+    "orig": 11000,
+    "current": 2200,
+    "discount": 80,
+    "avg": 2200,
+    "lowest": 1100,
+    "lowestDate": "2024년 겨울 할인"
+  },
+  {
+    "id": 70,
+    "title": "Half-Life",
+    "searchKeys": "half-life 하프라이프1 하프라이프",
+    "genre": "액션 / FPS",
+    "orig": 11000,
+    "current": 2200,
+    "discount": 80,
+    "avg": 2200,
+    "lowest": 1100,
+    "lowestDate": "2024년 겨울 할인"
+  },
+  {
     "id": 220,
     "title": "Half-Life 2",
     "searchKeys": "half-life 2 하프라이프2 하프라이프",
@@ -10,6 +34,30 @@
     "avg": 2200,
     "lowest": 1100,
     "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 240,
+    "title": "Counter-Strike: Source",
+    "searchKeys": "counter-strike source 카스소스",
+    "genre": "액션 / FPS",
+    "orig": 11000,
+    "current": 2200,
+    "discount": 80,
+    "avg": 2200,
+    "lowest": 1100,
+    "lowestDate": "2024년 겨울 할인"
+  },
+  {
+    "id": 300,
+    "title": "Day of Defeat: Source",
+    "searchKeys": "day of defeat source 데이오브디피트",
+    "genre": "액션 / FPS",
+    "orig": 11000,
+    "current": 2200,
+    "discount": 80,
+    "avg": 2200,
+    "lowest": 1100,
+    "lowestDate": "2024년 겨울 할인"
   },
   {
     "id": 400,
@@ -34,6 +82,18 @@
     "avg": 0,
     "lowest": 0,
     "lowestDate": "기본 무료 플레이"
+  },
+  {
+    "id": 500,
+    "title": "Left 4 Dead",
+    "searchKeys": "left 4 dead 레프트4데드 레포데1",
+    "genre": "공포 / 액션",
+    "orig": 11000,
+    "current": 2200,
+    "discount": 80,
+    "avg": 2200,
+    "lowest": 1100,
+    "lowestDate": "2024년 겨울 할인"
   },
   {
     "id": 550,
@@ -84,6 +144,78 @@
     "lowestDate": "기본 무료 플레이"
   },
   {
+    "id": 1250,
+    "title": "Killing Floor",
+    "searchKeys": "killing floor 킬링플로어",
+    "genre": "공포 / 액션",
+    "orig": 21000,
+    "current": 4200,
+    "discount": 80,
+    "avg": 5250,
+    "lowest": 2100,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
+    "id": 2280,
+    "title": "DOOM + DOOM II",
+    "searchKeys": "doom 둠 클래식 둠1 둠2",
+    "genre": "액션 / FPS",
+    "orig": 11000,
+    "current": 4400,
+    "discount": 60,
+    "avg": 5500,
+    "lowest": 4400,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 2600,
+    "title": "Vampire: The Masquerade - Bloodlines",
+    "searchKeys": "vampire masquerade bloodlines 뱀파이어 블러드라인",
+    "genre": "RPG / 오픈월드",
+    "orig": 21500,
+    "current": 10750,
+    "discount": 50,
+    "avg": 10750,
+    "lowest": 10750,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 3590,
+    "title": "Plants vs. Zombies GOTY Edition",
+    "searchKeys": "plants vs zombies 식물대좀비 식좀",
+    "genre": "전략 / 캐주얼",
+    "orig": 5500,
+    "current": 1100,
+    "discount": 80,
+    "avg": 1650,
+    "lowest": 1100,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 3830,
+    "title": "Psychonauts",
+    "searchKeys": "psychonauts 사이코너츠",
+    "genre": "인디 / 플랫포머",
+    "orig": 10500,
+    "current": 2620,
+    "discount": 75,
+    "avg": 2620,
+    "lowest": 1570,
+    "lowestDate": "2024년 여름 할인"
+  },
+  {
+    "id": 3900,
+    "title": "Sid Meier's Civilization® IV",
+    "searchKeys": "civilization 4 문명4 문명",
+    "genre": "전략 / 턴제",
+    "orig": 21500,
+    "current": 5370,
+    "discount": 75,
+    "avg": 5370,
+    "lowest": 5370,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 4000,
     "title": "Garry's Mod",
     "searchKeys": "garry's mod 게리모드",
@@ -93,6 +225,102 @@
     "discount": 50,
     "avg": 5500,
     "lowest": 2750,
+    "lowestDate": "2024년 겨울 할인"
+  },
+  {
+    "id": 4560,
+    "title": "Company of Heroes",
+    "searchKeys": "company of heroes 컴퍼니오브히어로즈 컴오히",
+    "genre": "전략 / RTS",
+    "orig": 21500,
+    "current": 4300,
+    "discount": 80,
+    "avg": 5370,
+    "lowest": 4300,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 4700,
+    "title": "Total War: MEDIEVAL II – Definitive Edition",
+    "searchKeys": "medieval 2 total war 미디블2 토탈워",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 27000,
+    "current": 6750,
+    "discount": 75,
+    "avg": 6750,
+    "lowest": 6750,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 6060,
+    "title": "STAR WARS™ Battlefront II (Classic, 2005)",
+    "searchKeys": "star wars battlefront 2 배틀프론트2",
+    "genre": "액션 / 슈터",
+    "orig": 10500,
+    "current": 3670,
+    "discount": 65,
+    "avg": 3670,
+    "lowest": 2620,
+    "lowestDate": "2024년 봄 할인"
+  },
+  {
+    "id": 6860,
+    "title": "Hitman: Blood Money",
+    "searchKeys": "hitman blood money 히트맨 블러드머니",
+    "genre": "액션 / 잠입",
+    "orig": 10500,
+    "current": 2100,
+    "discount": 80,
+    "avg": 2100,
+    "lowest": 1050,
+    "lowestDate": "2024년 여름 할인"
+  },
+  {
+    "id": 7670,
+    "title": "BioShock™",
+    "searchKeys": "bioshock 바이오쇼크1 바이오쇼크",
+    "genre": "액션 / FPS",
+    "orig": 21000,
+    "current": 5250,
+    "discount": 75,
+    "avg": 5250,
+    "lowest": 5250,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 8500,
+    "title": "EVE Online",
+    "searchKeys": "eve online 이브온라인",
+    "genre": "RPG / MMORPG",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
+  },
+  {
+    "id": 8850,
+    "title": "BioShock® 2",
+    "searchKeys": "bioshock 2 바이오쇼크2",
+    "genre": "액션 / FPS",
+    "orig": 21000,
+    "current": 5250,
+    "discount": 75,
+    "avg": 5250,
+    "lowest": 3150,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
+    "id": 8870,
+    "title": "BioShock Infinite",
+    "searchKeys": "bioshock infinite 바이오쇼크 인피니트",
+    "genre": "액션 / FPS",
+    "orig": 32000,
+    "current": 8000,
+    "discount": 75,
+    "avg": 8000,
+    "lowest": 6400,
     "lowestDate": "2024년 겨울 할인"
   },
   {
@@ -108,6 +336,462 @@
     "lowestDate": "2023년 여름 할인"
   },
   {
+    "id": 9480,
+    "title": "Saints Row 2",
+    "searchKeys": "saints row 2 세인츠로우2",
+    "genre": "액션 / 오픈월드",
+    "orig": 10500,
+    "current": 2620,
+    "discount": 75,
+    "avg": 2620,
+    "lowest": 2620,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 10180,
+    "title": "Call of Duty®: Modern Warfare® 2 (2009)",
+    "searchKeys": "modern warfare 2 모던워페어2 클래식",
+    "genre": "액션 / FPS",
+    "orig": 23000,
+    "current": 17250,
+    "discount": 25,
+    "avg": 17250,
+    "lowest": 11500,
+    "lowestDate": "2023년 여름 할인"
+  },
+  {
+    "id": 10500,
+    "title": "Total War: EMPIRE – Definitive Edition",
+    "searchKeys": "empire total war 엠파이어 토탈워",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 27000,
+    "current": 6750,
+    "discount": 75,
+    "avg": 6750,
+    "lowest": 6750,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 12120,
+    "title": "Grand Theft Auto: San Andreas",
+    "searchKeys": "gta san andreas 산안드레아스 그타",
+    "genre": "액션 / 오픈월드",
+    "orig": 16500,
+    "current": 5770,
+    "discount": 65,
+    "avg": 5770,
+    "lowest": 5770,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 12210,
+    "title": "Grand Theft Auto IV: The Complete Edition",
+    "searchKeys": "gta 4 그타4",
+    "genre": "액션 / 오픈월드",
+    "orig": 22000,
+    "current": 6600,
+    "discount": 70,
+    "avg": 6600,
+    "lowest": 6600,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 15100,
+    "title": "Assassin's Creed™: Director's Cut Edition",
+    "searchKeys": "assassin's creed 1 어쌔신크리드1 어크1",
+    "genre": "액션 / 어드벤처",
+    "orig": 22000,
+    "current": 5500,
+    "discount": 75,
+    "avg": 5500,
+    "lowest": 5500,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 17410,
+    "title": "Mirror's Edge™",
+    "searchKeys": "mirror's edge 미러스엣지",
+    "genre": "액션 / 파쿠르",
+    "orig": 22000,
+    "current": 3300,
+    "discount": 85,
+    "avg": 4400,
+    "lowest": 2200,
+    "lowestDate": "2024년 봄 할인"
+  },
+  {
+    "id": 17450,
+    "title": "Dragon Age: Origins",
+    "searchKeys": "dragon age origins 드래곤에이지 오리진",
+    "genre": "RPG / 판타지",
+    "orig": 22000,
+    "current": 3300,
+    "discount": 85,
+    "avg": 4400,
+    "lowest": 3300,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 17470,
+    "title": "Dead Space (2008)",
+    "searchKeys": "dead space 데드스페이스 클래식",
+    "genre": "공포 / 액션",
+    "orig": 22000,
+    "current": 4400,
+    "discount": 80,
+    "avg": 5500,
+    "lowest": 4400,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 20900,
+    "title": "The Witcher: Enhanced Edition Director's Cut",
+    "searchKeys": "witcher 1 위쳐1 위쳐",
+    "genre": "RPG / 판타지",
+    "orig": 10500,
+    "current": 1570,
+    "discount": 85,
+    "avg": 1570,
+    "lowest": 1570,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 20920,
+    "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
+    "searchKeys": "witcher 2 위쳐2 위쳐",
+    "genre": "RPG / 판타지",
+    "orig": 21000,
+    "current": 3150,
+    "discount": 85,
+    "avg": 3150,
+    "lowest": 3150,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 22380,
+    "title": "Fallout: New Vegas",
+    "searchKeys": "fallout new vegas 폴아웃 뉴베가스",
+    "genre": "RPG / 오픈월드",
+    "orig": 11500,
+    "current": 2870,
+    "discount": 75,
+    "avg": 3450,
+    "lowest": 2870,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 24740,
+    "title": "Burnout™ Paradise Remastered",
+    "searchKeys": "burnout paradise 번아웃 파라다이스",
+    "genre": "스포츠 / 레이싱",
+    "orig": 22000,
+    "current": 5500,
+    "discount": 75,
+    "avg": 5500,
+    "lowest": 3300,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
+    "id": 32370,
+    "title": "STAR WARS™ Knights of the Old Republic™",
+    "searchKeys": "kotor 구공화국의기사단 스타워즈",
+    "genre": "RPG / SF",
+    "orig": 10500,
+    "current": 3670,
+    "discount": 65,
+    "avg": 3670,
+    "lowest": 2620,
+    "lowestDate": "2024년 봄 할인"
+  },
+  {
+    "id": 33230,
+    "title": "Assassin's Creed 2",
+    "searchKeys": "assassin's creed 2 어쌔신크리드2 어크2",
+    "genre": "액션 / 어드벤처",
+    "orig": 22000,
+    "current": 5500,
+    "discount": 75,
+    "avg": 5500,
+    "lowest": 5500,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 34330,
+    "title": "Total War: SHOGUN 2",
+    "searchKeys": "shogun 2 total war 쇼군2 토탈워",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 32000,
+    "current": 8000,
+    "discount": 75,
+    "avg": 8000,
+    "lowest": 4800,
+    "lowestDate": "2024년 여름 할인"
+  },
+  {
+    "id": 35140,
+    "title": "Batman: Arkham Asylum Game of the Year Edition",
+    "searchKeys": "batman arkham asylum 배트맨 아캄어사일럼",
+    "genre": "액션 / 어드벤처",
+    "orig": 21000,
+    "current": 4200,
+    "discount": 80,
+    "avg": 5250,
+    "lowest": 4200,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 39210,
+    "title": "FINAL FANTASY XIV Online",
+    "searchKeys": "ff14 파판14 파이널판타지14",
+    "genre": "RPG / MMORPG",
+    "orig": 22000,
+    "current": 11000,
+    "discount": 50,
+    "avg": 13200,
+    "lowest": 8800,
+    "lowestDate": "2024년 여름 할인"
+  },
+  {
+    "id": 40800,
+    "title": "Super Meat Boy",
+    "searchKeys": "super meat boy 슈퍼미트보이",
+    "genre": "인디 / 플랫포머",
+    "orig": 16500,
+    "current": 1650,
+    "discount": 90,
+    "avg": 3300,
+    "lowest": 1650,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 42700,
+    "title": "Call of Duty®: Black Ops",
+    "searchKeys": "black ops 1 블랙옵스1 콜옵",
+    "genre": "액션 / FPS",
+    "orig": 45000,
+    "current": 22500,
+    "discount": 50,
+    "avg": 22500,
+    "lowest": 22500,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 42910,
+    "title": "Magicka",
+    "searchKeys": "magicka 매지카",
+    "genre": "인디 / 협동",
+    "orig": 11000,
+    "current": 2750,
+    "discount": 75,
+    "avg": 2750,
+    "lowest": 2750,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 43110,
+    "title": "Metro 2033",
+    "searchKeys": "metro 2033 메트로2033",
+    "genre": "액션 / FPS",
+    "orig": 21000,
+    "current": 3150,
+    "discount": 85,
+    "avg": 4200,
+    "lowest": 2100,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
+    "id": 45760,
+    "title": "Ultra Street Fighter® IV",
+    "searchKeys": "ultra street fighter 4 울스파4 스파4",
+    "genre": "액션 / 격투",
+    "orig": 32800,
+    "current": 4260,
+    "discount": 87,
+    "avg": 6560,
+    "lowest": 4260,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 47780,
+    "title": "Dead Space™ 2",
+    "searchKeys": "dead space 2 데드스페이스2",
+    "genre": "공포 / 액션",
+    "orig": 22000,
+    "current": 4400,
+    "discount": 80,
+    "avg": 4400,
+    "lowest": 4400,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 47810,
+    "title": "Dragon Age™: Origins - Ultimate Edition",
+    "searchKeys": "dragon age origins ultimate 드래곤에이지",
+    "genre": "RPG / 판타지",
+    "orig": 33000,
+    "current": 4950,
+    "discount": 85,
+    "avg": 6600,
+    "lowest": 4950,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 48000,
+    "title": "LIMBO",
+    "searchKeys": "limbo 림보",
+    "genre": "인디 / 퍼즐",
+    "orig": 11000,
+    "current": 1100,
+    "discount": 90,
+    "avg": 2200,
+    "lowest": 1100,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 48700,
+    "title": "Mount & Blade: Warband",
+    "searchKeys": "mount and blade warband 마운트앤블레이드 워밴드",
+    "genre": "RPG / 전략",
+    "orig": 21000,
+    "current": 5250,
+    "discount": 75,
+    "avg": 5250,
+    "lowest": 5250,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 49520,
+    "title": "Borderlands 2",
+    "searchKeys": "borderlands 2 보더랜드2 보더랜드",
+    "genre": "액션 / FPS",
+    "orig": 21000,
+    "current": 5250,
+    "discount": 75,
+    "avg": 5250,
+    "lowest": 5250,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 50130,
+    "title": "Mafia II (Classic)",
+    "searchKeys": "mafia 2 마피아2",
+    "genre": "액션 / 오픈월드",
+    "orig": 32000,
+    "current": 8000,
+    "discount": 75,
+    "avg": 8000,
+    "lowest": 8000,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 50300,
+    "title": "Spec Ops: The Line",
+    "searchKeys": "spec ops the line 스펙옵스 더라인",
+    "genre": "액션 / 슈터",
+    "orig": 32000,
+    "current": 6400,
+    "discount": 80,
+    "avg": 6400,
+    "lowest": 6400,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 55150,
+    "title": "Warhammer 40,000: Space Marine",
+    "searchKeys": "space marine 워해머 스페이스마린",
+    "genre": "액션 / 슈터",
+    "orig": 32000,
+    "current": 8000,
+    "discount": 75,
+    "avg": 8000,
+    "lowest": 8000,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 55230,
+    "title": "Saints Row: The Third",
+    "searchKeys": "saints row 3 세인츠로우3",
+    "genre": "액션 / 오픈월드",
+    "orig": 11000,
+    "current": 2750,
+    "discount": 75,
+    "avg": 2750,
+    "lowest": 2750,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 57300,
+    "title": "Amnesia: The Dark Descent",
+    "searchKeys": "amnesia dark descent 암네시아",
+    "genre": "공포 / 어드벤처",
+    "orig": 21500,
+    "current": 3220,
+    "discount": 85,
+    "avg": 4300,
+    "lowest": 2150,
+    "lowestDate": "2024년 할로윈 세일"
+  },
+  {
+    "id": 65800,
+    "title": "Dungeon Defenders",
+    "searchKeys": "dungeon defenders 던전디펜더스",
+    "genre": "전략 / 타워디펜스",
+    "orig": 16500,
+    "current": 4120,
+    "discount": 75,
+    "avg": 4120,
+    "lowest": 4120,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 70000,
+    "title": "Dino D-Day",
+    "searchKeys": "dino d-day 다이노디데이",
+    "genre": "액션 / FPS",
+    "orig": 11000,
+    "current": 1100,
+    "discount": 90,
+    "avg": 2200,
+    "lowest": 1100,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 72850,
+    "title": "The Elder Scrolls V: Skyrim",
+    "searchKeys": "skyrim classic 스카이림 구버전",
+    "genre": "RPG / 오픈월드",
+    "orig": 23000,
+    "current": 11500,
+    "discount": 50,
+    "avg": 11500,
+    "lowest": 5750,
+    "lowestDate": "2022년 겨울 할인"
+  },
+  {
+    "id": 91310,
+    "title": "Dead Island",
+    "searchKeys": "dead island 데드아일랜드",
+    "genre": "공포 / 액션",
+    "orig": 21000,
+    "current": 4200,
+    "discount": 80,
+    "avg": 4200,
+    "lowest": 3150,
+    "lowestDate": "2024년 여름 할인"
+  },
+  {
+    "id": 102500,
+    "title": "Kingdoms of Amalur: Reckoning™",
+    "searchKeys": "kingdoms of amalur 아말러",
+    "genre": "RPG / 액션",
+    "orig": 22000,
+    "current": 5500,
+    "discount": 75,
+    "avg": 5500,
+    "lowest": 5500,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 105600,
     "title": "Terraria",
     "searchKeys": "terraria 테라리아",
@@ -118,6 +802,30 @@
     "avg": 5500,
     "lowest": 2750,
     "lowestDate": "2024년 겨울 할인"
+  },
+  {
+    "id": 107100,
+    "title": "Bastion",
+    "searchKeys": "bastion 배스천",
+    "genre": "인디 / 액션",
+    "orig": 16500,
+    "current": 3300,
+    "discount": 80,
+    "avg": 3300,
+    "lowest": 2470,
+    "lowestDate": "2024년 여름 할인"
+  },
+  {
+    "id": 107410,
+    "title": "Arma 3",
+    "searchKeys": "arma 3 아르마3",
+    "genre": "액션 / 시뮬레이션",
+    "orig": 35000,
+    "current": 7000,
+    "discount": 80,
+    "avg": 8750,
+    "lowest": 5250,
+    "lowestDate": "2024년 가을 할인"
   },
   {
     "id": 108600,
@@ -132,6 +840,90 @@
     "lowestDate": "2024년 여름 할인"
   },
   {
+    "id": 111800,
+    "title": "Blocks That Matter",
+    "searchKeys": "blocks that matter 블록댓매터",
+    "genre": "인디 / 퍼즐",
+    "orig": 5500,
+    "current": 1370,
+    "discount": 75,
+    "avg": 1370,
+    "lowest": 1370,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 113200,
+    "title": "The Binding of Isaac",
+    "searchKeys": "binding of isaac 아이작 클래식",
+    "genre": "인디 / 로그라이크",
+    "orig": 5500,
+    "current": 1370,
+    "discount": 75,
+    "avg": 1370,
+    "lowest": 550,
+    "lowestDate": "2024년 겨울 할인"
+  },
+  {
+    "id": 200260,
+    "title": "Batman: Arkham City - Game of the Year Edition",
+    "searchKeys": "batman arkham city 배트맨 아캄시티",
+    "genre": "액션 / 어드벤처",
+    "orig": 21000,
+    "current": 4200,
+    "discount": 80,
+    "avg": 4200,
+    "lowest": 4200,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 200510,
+    "title": "XCOM: Enemy Unknown",
+    "searchKeys": "xcom enemy unknown 엑스컴 에너미언노운",
+    "genre": "전략 / 턴제",
+    "orig": 32000,
+    "current": 6400,
+    "discount": 80,
+    "avg": 6400,
+    "lowest": 6400,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 200710,
+    "title": "Torchlight II",
+    "searchKeys": "torchlight 2 토치라이트2",
+    "genre": "RPG / 핵앤슬래시",
+    "orig": 21000,
+    "current": 4200,
+    "discount": 80,
+    "avg": 5250,
+    "lowest": 4200,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 201810,
+    "title": "Wolfenstein: The New Order",
+    "searchKeys": "wolfenstein new order 울펜슈타인 뉴오더",
+    "genre": "액션 / FPS",
+    "orig": 23000,
+    "current": 5750,
+    "discount": 75,
+    "avg": 5750,
+    "lowest": 4600,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
+    "id": 202970,
+    "title": "Call of Duty®: Black Ops II",
+    "searchKeys": "black ops 2 블랙옵스2 콜옵",
+    "genre": "액션 / FPS",
+    "orig": 65000,
+    "current": 21450,
+    "discount": 67,
+    "avg": 26000,
+    "lowest": 21450,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 203160,
     "title": "Tomb Raider",
     "searchKeys": "tomb raider 툼레이더",
@@ -142,6 +934,54 @@
     "avg": 2470,
     "lowest": 1650,
     "lowestDate": "2024년 겨울 할인"
+  },
+  {
+    "id": 203770,
+    "title": "Crusader Kings II",
+    "searchKeys": "crusader kings 2 크루세이더킹즈2 크킹2",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
+  },
+  {
+    "id": 204360,
+    "title": "Castle Crashers®",
+    "searchKeys": "castle crashers 캐슬크래셔",
+    "genre": "인디 / 협동",
+    "orig": 16500,
+    "current": 3300,
+    "discount": 80,
+    "avg": 4120,
+    "lowest": 1650,
+    "lowestDate": "2024년 여름 할인"
+  },
+  {
+    "id": 205100,
+    "title": "Dishonored",
+    "searchKeys": "dishonored 디스아너드",
+    "genre": "액션 / 잠입",
+    "orig": 11500,
+    "current": 2870,
+    "discount": 75,
+    "avg": 2870,
+    "lowest": 2300,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
+    "id": 206190,
+    "title": "Gunpoint",
+    "searchKeys": "gunpoint 건포인트",
+    "genre": "인디 / 퍼즐",
+    "orig": 11000,
+    "current": 2750,
+    "discount": 75,
+    "avg": 2750,
+    "lowest": 1650,
+    "lowestDate": "2024년 봄 할인"
   },
   {
     "id": 206440,
@@ -156,6 +996,18 @@
     "lowestDate": "2024년 겨울 할인"
   },
   {
+    "id": 207610,
+    "title": "The Walking Dead",
+    "searchKeys": "the walking dead 워킹데드 텔테일",
+    "genre": "어드벤처 / 스토리",
+    "orig": 16500,
+    "current": 4120,
+    "discount": 75,
+    "avg": 4120,
+    "lowest": 3300,
+    "lowestDate": "2024년 할로윈 세일"
+  },
+  {
     "id": 208650,
     "title": "Batman™: Arkham Knight",
     "searchKeys": "batman arkham knight 배트맨 아캄나이트",
@@ -165,6 +1017,102 @@
     "discount": 80,
     "avg": 4200,
     "lowest": 2100,
+    "lowestDate": "2024년 여름 할인"
+  },
+  {
+    "id": 209000,
+    "title": "Batman™: Arkham Origins",
+    "searchKeys": "batman arkham origins 배트맨 아캄오리진",
+    "genre": "액션 / 어드벤처",
+    "orig": 21000,
+    "current": 4200,
+    "discount": 80,
+    "avg": 4200,
+    "lowest": 4200,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 210970,
+    "title": "The Witness",
+    "searchKeys": "the witness 더위트니스",
+    "genre": "인디 / 퍼즐",
+    "orig": 42000,
+    "current": 10500,
+    "discount": 75,
+    "avg": 10500,
+    "lowest": 6300,
+    "lowestDate": "2024년 여름 할인"
+  },
+  {
+    "id": 211420,
+    "title": "DARK SOULS™: Prepare To Die™ Edition",
+    "searchKeys": "dark souls 1 다크소울1",
+    "genre": "RPG / 소울라이크",
+    "orig": 21500,
+    "current": 21500,
+    "discount": 0,
+    "avg": 21500,
+    "lowest": 5370,
+    "lowestDate": "2016년 겨울 할인"
+  },
+  {
+    "id": 211820,
+    "title": "Starbound",
+    "searchKeys": "starbound 스타바운드",
+    "genre": "생존 / 크래프팅",
+    "orig": 16500,
+    "current": 6600,
+    "discount": 60,
+    "avg": 8250,
+    "lowest": 6600,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 212680,
+    "title": "FTL: Faster Than Light",
+    "searchKeys": "ftl 패스터댄라이트",
+    "genre": "인디 / 로그라이크",
+    "orig": 11000,
+    "current": 2750,
+    "discount": 75,
+    "avg": 2750,
+    "lowest": 2750,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 214490,
+    "title": "Alien: Isolation",
+    "searchKeys": "alien isolation 에이리언 아이솔레이션",
+    "genre": "공포 / 생존",
+    "orig": 44000,
+    "current": 8800,
+    "discount": 80,
+    "avg": 11000,
+    "lowest": 4400,
+    "lowestDate": "2024년 할로윈 세일"
+  },
+  {
+    "id": 214950,
+    "title": "Total War: ROME II - Emperor Edition",
+    "searchKeys": "rome 2 total war 롬2 토탈워",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 60000,
+    "current": 15000,
+    "discount": 75,
+    "avg": 15000,
+    "lowest": 15000,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 218620,
+    "title": "PAYDAY 2",
+    "searchKeys": "payday 2 페이데이2",
+    "genre": "액션 / FPS",
+    "orig": 11000,
+    "current": 2200,
+    "discount": 80,
+    "avg": 2200,
+    "lowest": 1100,
     "lowestDate": "2024년 여름 할인"
   },
   {
@@ -180,6 +1128,114 @@
     "lowestDate": "2024년 봄 할인"
   },
   {
+    "id": 219740,
+    "title": "Don't Starve",
+    "searchKeys": "don't starve 굶지마",
+    "genre": "생존 / 크래프팅",
+    "orig": 11000,
+    "current": 2750,
+    "discount": 75,
+    "avg": 2750,
+    "lowest": 2750,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 220200,
+    "title": "Kerbal Space Program",
+    "searchKeys": "kerbal space program 커발스페이스프로그램 ksp",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 44000,
+    "current": 11000,
+    "discount": 75,
+    "avg": 11000,
+    "lowest": 11000,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 221380,
+    "title": "Age of Empires II (2013)",
+    "searchKeys": "age of empires 2 에이지오브엠파이어2",
+    "genre": "전략 / RTS",
+    "orig": 21500,
+    "current": 5370,
+    "discount": 75,
+    "avg": 5370,
+    "lowest": 4300,
+    "lowestDate": "2023년 여름 할인"
+  },
+  {
+    "id": 221910,
+    "title": "The Stanley Parable",
+    "searchKeys": "stanley parable 스탠리패러블",
+    "genre": "인디 / 어드벤처",
+    "orig": 16500,
+    "current": 4950,
+    "discount": 70,
+    "avg": 4950,
+    "lowest": 3300,
+    "lowestDate": "2024년 봄 할인"
+  },
+  {
+    "id": 222880,
+    "title": "Insurgency",
+    "searchKeys": "insurgency 인서전시",
+    "genre": "액션 / FPS",
+    "orig": 16500,
+    "current": 4120,
+    "discount": 75,
+    "avg": 4120,
+    "lowest": 1650,
+    "lowestDate": "2024년 여름 할인"
+  },
+  {
+    "id": 223850,
+    "title": "3DMark",
+    "searchKeys": "3dmark 3d마크 벤치마크",
+    "genre": "유틸리티 / 벤치마크",
+    "orig": 37500,
+    "current": 9370,
+    "discount": 75,
+    "avg": 9370,
+    "lowest": 5620,
+    "lowestDate": "2024년 겨울 할인"
+  },
+  {
+    "id": 224760,
+    "title": "FEZ",
+    "searchKeys": "fez 페즈",
+    "genre": "인디 / 퍼즐",
+    "orig": 11000,
+    "current": 2750,
+    "discount": 75,
+    "avg": 2750,
+    "lowest": 2750,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 225540,
+    "title": "Just Cause™ 3",
+    "searchKeys": "just cause 3 저스트코즈3",
+    "genre": "액션 / 오픈월드",
+    "orig": 21500,
+    "current": 3220,
+    "discount": 85,
+    "avg": 3220,
+    "lowest": 3220,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 226840,
+    "title": "Age of Wonders III",
+    "searchKeys": "age of wonders 3 에이지오브원더스3",
+    "genre": "전략 / 턴제",
+    "orig": 32000,
+    "current": 8000,
+    "discount": 75,
+    "avg": 8000,
+    "lowest": 8000,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 227300,
     "title": "Euro Truck Simulator 2",
     "searchKeys": "euro truck simulator 2 유로트럭2 유로트럭",
@@ -192,10 +1248,106 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 228380,
+    "title": "Wreckfest",
+    "searchKeys": "wreckfest 렉페스트",
+    "genre": "스포츠 / 레이싱",
+    "orig": 32000,
+    "current": 12800,
+    "discount": 60,
+    "avg": 12800,
+    "lowest": 12800,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 230410,
     "title": "Warframe",
     "searchKeys": "warframe 워프레임",
     "genre": "액션 / 슈터",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
+  },
+  {
+    "id": 231430,
+    "title": "Company of Heroes 2",
+    "searchKeys": "company of heroes 2 컴퍼니오브히어로즈2 컴오히2",
+    "genre": "전략 / RTS",
+    "orig": 21500,
+    "current": 5370,
+    "discount": 75,
+    "avg": 5370,
+    "lowest": 1070,
+    "lowestDate": "2024년 봄 할인"
+  },
+  {
+    "id": 232090,
+    "title": "Killing Floor 2",
+    "searchKeys": "killing floor 2 킬링플로어2",
+    "genre": "공포 / 액션",
+    "orig": 32000,
+    "current": 3200,
+    "discount": 90,
+    "avg": 6400,
+    "lowest": 1600,
+    "lowestDate": "2024년 할로윈 세일"
+  },
+  {
+    "id": 233250,
+    "title": "Planetary Annihilation",
+    "searchKeys": "planetary annihilation 플래니터리 어나이얼레이션",
+    "genre": "전략 / RTS",
+    "orig": 32000,
+    "current": 8000,
+    "discount": 75,
+    "avg": 8000,
+    "lowest": 8000,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 233450,
+    "title": "Prison Architect",
+    "searchKeys": "prison architect 프리즌아키텍트",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 32000,
+    "current": 8000,
+    "discount": 75,
+    "avg": 8000,
+    "lowest": 4800,
+    "lowestDate": "2024년 여름 할인"
+  },
+  {
+    "id": 233860,
+    "title": "Kenshi Demo",
+    "searchKeys": "kenshi demo 켄시 데모",
+    "genre": "RPG / 오픈월드",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
+  },
+  {
+    "id": 234650,
+    "title": "Shadowrun Returns",
+    "searchKeys": "shadowrun returns 섀도우런 리턴즈",
+    "genre": "RPG / 턴제",
+    "orig": 16500,
+    "current": 4120,
+    "discount": 75,
+    "avg": 4120,
+    "lowest": 4120,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 236390,
+    "title": "War Thunder",
+    "searchKeys": "war thunder 워썬더",
+    "genre": "액션 / 시뮬레이션",
     "orig": 0,
     "current": 0,
     "discount": 0,
@@ -216,6 +1368,54 @@
     "lowestDate": "2021년 겨울 할인"
   },
   {
+    "id": 236850,
+    "title": "Europa Universalis IV",
+    "searchKeys": "europa universalis 4 유로파유니버설리스4 유로파4",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 54000,
+    "current": 16200,
+    "discount": 70,
+    "avg": 16200,
+    "lowest": 5400,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
+    "id": 237930,
+    "title": "Transistor",
+    "searchKeys": "transistor 트랜지스터",
+    "genre": "인디 / RPG",
+    "orig": 21500,
+    "current": 4300,
+    "discount": 80,
+    "avg": 4300,
+    "lowest": 3220,
+    "lowestDate": "2024년 여름 할인"
+  },
+  {
+    "id": 238320,
+    "title": "Outlast",
+    "searchKeys": "outlast 아웃라스트",
+    "genre": "공포 / 생존",
+    "orig": 21500,
+    "current": 3220,
+    "discount": 85,
+    "avg": 4300,
+    "lowest": 2150,
+    "lowestDate": "2024년 할로윈 세일"
+  },
+  {
+    "id": 238460,
+    "title": "BattleBlock Theater®",
+    "searchKeys": "battleblock theater 배틀블록시어터",
+    "genre": "인디 / 협동",
+    "orig": 16500,
+    "current": 3300,
+    "discount": 80,
+    "avg": 4120,
+    "lowest": 3300,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 238960,
     "title": "Path of Exile",
     "searchKeys": "path of exile 패스오브엑자일 poe",
@@ -228,6 +1428,18 @@
     "lowestDate": "기본 무료 플레이"
   },
   {
+    "id": 239030,
+    "title": "Papers, Please",
+    "searchKeys": "papers please 페이퍼플리즈 입국심사",
+    "genre": "인디 / 시뮬레이션",
+    "orig": 11000,
+    "current": 5500,
+    "discount": 50,
+    "avg": 5500,
+    "lowest": 2200,
+    "lowestDate": "2023년 여름 할인"
+  },
+  {
     "id": 239140,
     "title": "Dying Light",
     "searchKeys": "dying light 다잉라이트",
@@ -238,6 +1450,30 @@
     "avg": 6450,
     "lowest": 3220,
     "lowestDate": "2024년 겨울 할인"
+  },
+  {
+    "id": 240720,
+    "title": "Getting Over It with Bennett Foddy",
+    "searchKeys": "getting over it 항아리게임",
+    "genre": "인디 / 플랫포머",
+    "orig": 8900,
+    "current": 2220,
+    "discount": 75,
+    "avg": 2670,
+    "lowest": 1780,
+    "lowestDate": "2024년 겨울 할인"
+  },
+  {
+    "id": 241560,
+    "title": "The Crew™",
+    "searchKeys": "the crew 더크루",
+    "genre": "스포츠 / 레이싱",
+    "orig": 33000,
+    "current": 8250,
+    "discount": 75,
+    "avg": 8250,
+    "lowest": 8250,
+    "lowestDate": "역대 최저가 타이"
   },
   {
     "id": 242050,
@@ -276,6 +1512,30 @@
     "lowestDate": "2024년 가을 할인"
   },
   {
+    "id": 242920,
+    "title": "Banished",
+    "searchKeys": "banished 배니쉬드",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 21000,
+    "current": 5250,
+    "discount": 75,
+    "avg": 6300,
+    "lowest": 5250,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 244210,
+    "title": "Assetto Corsa",
+    "searchKeys": "assetto corsa 아세토코르사",
+    "genre": "스포츠 / 레이싱",
+    "orig": 21500,
+    "current": 4300,
+    "discount": 80,
+    "avg": 5370,
+    "lowest": 2150,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
     "id": 244810,
     "title": "Kenshi",
     "searchKeys": "kenshi 켄시",
@@ -298,6 +1558,66 @@
     "avg": 8600,
     "lowest": 6450,
     "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 245170,
+    "title": "Skullgirls 2nd Encore",
+    "searchKeys": "skullgirls 스컬걸즈",
+    "genre": "액션 / 격투",
+    "orig": 27000,
+    "current": 5400,
+    "discount": 80,
+    "avg": 6750,
+    "lowest": 2700,
+    "lowestDate": "2024년 봄 할인"
+  },
+  {
+    "id": 246620,
+    "title": "Plague Inc: Evolved",
+    "searchKeys": "plague inc 전염병주식회사",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 16500,
+    "current": 5610,
+    "discount": 66,
+    "avg": 5610,
+    "lowest": 5610,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 247080,
+    "title": "Crypt of the NecroDancer",
+    "searchKeys": "crypt of the necrodancer 네크로댄서",
+    "genre": "인디 / 리듬",
+    "orig": 16500,
+    "current": 3300,
+    "discount": 80,
+    "avg": 3300,
+    "lowest": 3300,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 248820,
+    "title": "Risk of Rain (2013)",
+    "searchKeys": "risk of rain 리스크오브레인1",
+    "genre": "인디 / 로그라이크",
+    "orig": 11000,
+    "current": 2750,
+    "discount": 75,
+    "avg": 2750,
+    "lowest": 2750,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 250320,
+    "title": "The Wolf Among Us",
+    "searchKeys": "the wolf among us 울프어몽어스",
+    "genre": "어드벤처 / 스토리",
+    "orig": 16500,
+    "current": 8250,
+    "discount": 50,
+    "avg": 8250,
+    "lowest": 4120,
+    "lowestDate": "2024년 여름 할인"
   },
   {
     "id": 250900,
@@ -324,6 +1644,18 @@
     "lowestDate": "2024년 여름 할인"
   },
   {
+    "id": 252150,
+    "title": "Grimm",
+    "searchKeys": "grimm 그림",
+    "genre": "인디 / 어드벤처",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
+  },
+  {
     "id": 252490,
     "title": "Rust",
     "searchKeys": "rust 러스트",
@@ -348,6 +1680,42 @@
     "lowestDate": "기본 무료 플레이"
   },
   {
+    "id": 253230,
+    "title": "A Hat in Time",
+    "searchKeys": "a hat in time 어햇인타임",
+    "genre": "인디 / 플랫포머",
+    "orig": 32000,
+    "current": 16000,
+    "discount": 50,
+    "avg": 16000,
+    "lowest": 16000,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 253710,
+    "title": "theHunter Classic",
+    "searchKeys": "thehunter 더헌터 클래식",
+    "genre": "스포츠 / 사냥",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
+  },
+  {
+    "id": 254700,
+    "title": "Resident Evil 4 (2005)",
+    "searchKeys": "resident evil 4 바이오하자드4 클래식",
+    "genre": "공포 / 액션",
+    "orig": 22400,
+    "current": 5600,
+    "discount": 75,
+    "avg": 5600,
+    "lowest": 5600,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 255710,
     "title": "Cities: Skylines",
     "searchKeys": "cities: skylines 시티즈스카이라인",
@@ -358,6 +1726,42 @@
     "avg": 9600,
     "lowest": 6400,
     "lowestDate": "2024년 봄 할인"
+  },
+  {
+    "id": 257510,
+    "title": "The Talos Principle",
+    "searchKeys": "talos principle 탈로스법칙",
+    "genre": "인디 / 퍼즐",
+    "orig": 32000,
+    "current": 4800,
+    "discount": 85,
+    "avg": 6400,
+    "lowest": 3200,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
+    "id": 261550,
+    "title": "Mount & Blade II: Bannerlord",
+    "searchKeys": "mount and blade 2 bannerlord 마운트앤블레이드2 배너로드",
+    "genre": "RPG / 전략",
+    "orig": 55000,
+    "current": 27500,
+    "discount": 50,
+    "avg": 33000,
+    "lowest": 27500,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 261640,
+    "title": "Borderlands: The Pre-Sequel",
+    "searchKeys": "borderlands pre-sequel 보더랜드 프리시퀄",
+    "genre": "액션 / FPS",
+    "orig": 43000,
+    "current": 4300,
+    "discount": 90,
+    "avg": 8600,
+    "lowest": 4300,
+    "lowestDate": "역대 최저가 타이"
   },
   {
     "id": 262060,
@@ -381,6 +1785,18 @@
     "discount": 67,
     "avg": 16000,
     "lowest": 10560,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 265930,
+    "title": "Goat Simulator",
+    "searchKeys": "goat simulator 염소시뮬레이터",
+    "genre": "인디 / 시뮬레이션",
+    "orig": 11000,
+    "current": 2200,
+    "discount": 80,
+    "avg": 2200,
+    "lowest": 2200,
     "lowestDate": "역대 최저가 타이"
   },
   {
@@ -456,6 +1872,18 @@
     "lowestDate": "2024년 여름 할인"
   },
   {
+    "id": 274520,
+    "title": "Darkwood",
+    "searchKeys": "darkwood 다크우드",
+    "genre": "공포 / 생존",
+    "orig": 16500,
+    "current": 4120,
+    "discount": 75,
+    "avg": 4120,
+    "lowest": 4120,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 275850,
     "title": "No Man's Sky",
     "searchKeys": "no man's sky 노맨즈스카이",
@@ -480,6 +1908,18 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 282070,
+    "title": "This War of Mine",
+    "searchKeys": "this war of mine 디스워오브마인",
+    "genre": "생존 / 시뮬레이션",
+    "orig": 21500,
+    "current": 3220,
+    "discount": 85,
+    "avg": 4300,
+    "lowest": 2150,
+    "lowestDate": "2024년 겨울 할인"
+  },
+  {
     "id": 284160,
     "title": "BeamNG.drive",
     "searchKeys": "beamng drive 빔엔지 드라이브",
@@ -489,6 +1929,18 @@
     "discount": 20,
     "avg": 21600,
     "lowest": 21600,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 285900,
+    "title": "Gang Beasts",
+    "searchKeys": "gang beasts 갱비스트",
+    "genre": "인디 / 파티",
+    "orig": 21500,
+    "current": 8600,
+    "discount": 60,
+    "avg": 8600,
+    "lowest": 8600,
     "lowestDate": "역대 최저가 타이"
   },
   {
@@ -504,6 +1956,42 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 286690,
+    "title": "Metro 2033 Redux",
+    "searchKeys": "metro 2033 redux 메트로2033 리덕스",
+    "genre": "액션 / FPS",
+    "orig": 21500,
+    "current": 3220,
+    "discount": 85,
+    "avg": 4300,
+    "lowest": 2150,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
+    "id": 287390,
+    "title": "Metro: Last Light Redux",
+    "searchKeys": "metro last light redux 메트로 라스트라이트",
+    "genre": "액션 / FPS",
+    "orig": 21500,
+    "current": 3220,
+    "discount": 85,
+    "avg": 4300,
+    "lowest": 2150,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
+    "id": 287700,
+    "title": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+    "searchKeys": "metal gear solid 5 메탈기어솔리드5 메기솔5",
+    "genre": "액션 / 잠입",
+    "orig": 33000,
+    "current": 19800,
+    "discount": 40,
+    "avg": 19800,
+    "lowest": 8250,
+    "lowestDate": "2023년 겨울 할인"
+  },
+  {
     "id": 289070,
     "title": "문명 VI",
     "searchKeys": "civilization vi 문명6 문명",
@@ -514,6 +2002,18 @@
     "avg": 9750,
     "lowest": 3250,
     "lowestDate": "2025년 봄 할인"
+  },
+  {
+    "id": 290930,
+    "title": "Half-Life 2: Update",
+    "searchKeys": "half-life 2 update 하프라이프2 업데이트",
+    "genre": "액션 / FPS",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
   },
   {
     "id": 291550,
@@ -552,6 +2052,42 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 298110,
+    "title": "Far Cry® 4",
+    "searchKeys": "far cry 4 파크라이4",
+    "genre": "액션 / 오픈월드",
+    "orig": 33000,
+    "current": 6600,
+    "discount": 80,
+    "avg": 6600,
+    "lowest": 6600,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 301520,
+    "title": "Robocraft",
+    "searchKeys": "robocraft 로보크래프트",
+    "genre": "액션 / 크래프팅",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
+  },
+  {
+    "id": 304390,
+    "title": "FOR HONOR™",
+    "searchKeys": "for honor 포아너",
+    "genre": "액션 / 격투",
+    "orig": 33000,
+    "current": 4950,
+    "discount": 85,
+    "avg": 6600,
+    "lowest": 4950,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 304930,
     "title": "Unturned",
     "searchKeys": "unturned 언턴드",
@@ -562,6 +2098,42 @@
     "avg": 0,
     "lowest": 0,
     "lowestDate": "기본 무료 플레이"
+  },
+  {
+    "id": 305620,
+    "title": "The Long Dark",
+    "searchKeys": "the long dark 더롱다크",
+    "genre": "생존 / 오픈월드",
+    "orig": 21500,
+    "current": 10750,
+    "discount": 50,
+    "avg": 10750,
+    "lowest": 7090,
+    "lowestDate": "2023년 여름 할인"
+  },
+  {
+    "id": 306130,
+    "title": "The Elder Scrolls® Online",
+    "searchKeys": "elder scrolls online 엘더스크롤 온라인",
+    "genre": "RPG / MMORPG",
+    "orig": 23000,
+    "current": 5750,
+    "discount": 75,
+    "avg": 6900,
+    "lowest": 5750,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 310560,
+    "title": "DiRT Rally",
+    "searchKeys": "dirt rally 더트랠리",
+    "genre": "스포츠 / 레이싱",
+    "orig": 21500,
+    "current": 4300,
+    "discount": 80,
+    "avg": 5370,
+    "lowest": 2150,
+    "lowestDate": "2023년 가을 할인"
   },
   {
     "id": 311210,
@@ -588,6 +2160,30 @@
     "lowestDate": "2024년 봄 할인"
   },
   {
+    "id": 312530,
+    "title": "Duck Game",
+    "searchKeys": "duck game 덕게임",
+    "genre": "인디 / 파티",
+    "orig": 14500,
+    "current": 4350,
+    "discount": 70,
+    "avg": 5800,
+    "lowest": 4350,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 319630,
+    "title": "Life is Strange - Episode 1",
+    "searchKeys": "life is strange 라이프이즈스트레인지",
+    "genre": "어드벤처 / 스토리",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
+  },
+  {
     "id": 322330,
     "title": "Don't Starve Together",
     "searchKeys": "don't starve together 굶지마 투게더",
@@ -598,6 +2194,54 @@
     "avg": 5270,
     "lowest": 3870,
     "lowestDate": "2024년 가을 할인"
+  },
+  {
+    "id": 323190,
+    "title": "Frostpunk",
+    "searchKeys": "frostpunk 프로스트펑크1 프로스트펑크",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 32000,
+    "current": 4800,
+    "discount": 85,
+    "avg": 6400,
+    "lowest": 3200,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
+    "id": 333640,
+    "title": "Caves of Qud",
+    "searchKeys": "caves of qud 케이브오브커드",
+    "genre": "RPG / 로그라이크",
+    "orig": 32000,
+    "current": 27200,
+    "discount": 15,
+    "avg": 27200,
+    "lowest": 27200,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 335300,
+    "title": "DARK SOULS™ II: Scholar of the First Sin",
+    "searchKeys": "dark souls 2 다크소울2 스콜라",
+    "genre": "RPG / 소울라이크",
+    "orig": 43800,
+    "current": 21900,
+    "discount": 50,
+    "avg": 21900,
+    "lowest": 10950,
+    "lowestDate": "2021년 겨울 할인"
+  },
+  {
+    "id": 337000,
+    "title": "Deus Ex: Mankind Divided",
+    "searchKeys": "deus ex mankind divided 데이어스엑스",
+    "genre": "액션 / 잠입",
+    "orig": 33000,
+    "current": 4950,
+    "discount": 85,
+    "avg": 4950,
+    "lowest": 4950,
+    "lowestDate": "역대 최저가 타이"
   },
   {
     "id": 346110,
@@ -636,6 +2280,18 @@
     "lowestDate": "2024년 봄 할인"
   },
   {
+    "id": 361420,
+    "title": "ASTRONEER",
+    "searchKeys": "astroneer 아스트로니어",
+    "genre": "생존 / 크래프팅",
+    "orig": 32000,
+    "current": 11200,
+    "discount": 65,
+    "avg": 12800,
+    "lowest": 11200,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 362890,
     "title": "Black Mesa",
     "searchKeys": "black mesa 블랙메사 하프라이프1",
@@ -648,6 +2304,30 @@
     "lowestDate": "2024년 가을 할인"
   },
   {
+    "id": 364360,
+    "title": "Total War: WARHAMMER",
+    "searchKeys": "total war warhammer 1 토탈워 워해머1 햄탈워1",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 60000,
+    "current": 15000,
+    "discount": 75,
+    "avg": 15000,
+    "lowest": 15000,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 365590,
+    "title": "Tom Clancy’s The Division™",
+    "searchKeys": "the division 1 디비전1",
+    "genre": "액션 / 슈터",
+    "orig": 33000,
+    "current": 4950,
+    "discount": 85,
+    "avg": 4950,
+    "lowest": 4950,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 367520,
     "title": "Hollow Knight",
     "searchKeys": "hollow knight 할로우나이트 할나",
@@ -658,6 +2338,18 @@
     "avg": 8250,
     "lowest": 6600,
     "lowestDate": "2024년 겨울 할인"
+  },
+  {
+    "id": 368340,
+    "title": "CrossCode",
+    "searchKeys": "crosscode 크로스코드",
+    "genre": "인디 / RPG",
+    "orig": 21500,
+    "current": 6450,
+    "discount": 70,
+    "avg": 6450,
+    "lowest": 6450,
+    "lowestDate": "역대 최저가 타이"
   },
   {
     "id": 374320,
@@ -684,6 +2376,30 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 379430,
+    "title": "Kingdom Come: Deliverance",
+    "searchKeys": "kingdom come deliverance 킹덤컴 딜리버런스1",
+    "genre": "RPG / 오픈월드",
+    "orig": 33000,
+    "current": 6600,
+    "discount": 80,
+    "avg": 6600,
+    "lowest": 3300,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
+    "id": 379720,
+    "title": "DOOM",
+    "searchKeys": "doom 2016 둠 리부트 둠2016",
+    "genre": "액션 / FPS",
+    "orig": 23000,
+    "current": 4600,
+    "discount": 80,
+    "avg": 5750,
+    "lowest": 4600,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 381210,
     "title": "Dead by Daylight",
     "searchKeys": "dead by daylight 데드바이데이라이트 데바데",
@@ -694,6 +2410,42 @@
     "avg": 8600,
     "lowest": 6450,
     "lowestDate": "2024년 할로윈 세일"
+  },
+  {
+    "id": 383120,
+    "title": "Empyrion - Galactic Survival",
+    "searchKeys": "empyrion 엠피리온",
+    "genre": "생존 / 크래프팅",
+    "orig": 21500,
+    "current": 8600,
+    "discount": 60,
+    "avg": 8600,
+    "lowest": 6450,
+    "lowestDate": "2024년 여름 할인"
+  },
+  {
+    "id": 387290,
+    "title": "Ori and the Blind Forest: Definitive Edition",
+    "searchKeys": "ori and the blind forest 오리와 눈먼 숲",
+    "genre": "인디 / 메트로배니아",
+    "orig": 21900,
+    "current": 5470,
+    "discount": 75,
+    "avg": 5470,
+    "lowest": 4380,
+    "lowestDate": "2023년 겨울 할인"
+  },
+  {
+    "id": 387990,
+    "title": "Scrap Mechanic",
+    "searchKeys": "scrap mechanic 스크랩메카닉",
+    "genre": "생존 / 크래프팅",
+    "orig": 21500,
+    "current": 14400,
+    "discount": 33,
+    "avg": 14400,
+    "lowest": 14400,
+    "lowestDate": "역대 최저가 타이"
   },
   {
     "id": 391220,
@@ -720,6 +2472,30 @@
     "lowestDate": "2024년 겨울 할인"
   },
   {
+    "id": 392160,
+    "title": "X4: Foundations",
+    "searchKeys": "x4 foundations x4 파운데이션",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 54000,
+    "current": 16200,
+    "discount": 70,
+    "avg": 21600,
+    "lowest": 16200,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 393380,
+    "title": "Squad",
+    "searchKeys": "squad 스쿼드",
+    "genre": "액션 / FPS",
+    "orig": 54000,
+    "current": 21600,
+    "discount": 60,
+    "avg": 27000,
+    "lowest": 21600,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 394360,
     "title": "Hearts of Iron IV",
     "searchKeys": "hearts of iron 4 하츠오브아이언4 호이4",
@@ -729,6 +2505,54 @@
     "discount": 70,
     "avg": 16200,
     "lowest": 13500,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
+    "id": 397540,
+    "title": "Borderlands 3",
+    "searchKeys": "borderlands 3 보더랜드3",
+    "genre": "액션 / FPS",
+    "orig": 64900,
+    "current": 6490,
+    "discount": 90,
+    "avg": 9730,
+    "lowest": 6490,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 400040,
+    "title": "ShareX",
+    "searchKeys": "sharex 쉐어엑스 캡처",
+    "genre": "유틸리티 / 툴",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
+  },
+  {
+    "id": 407530,
+    "title": "ARK: Survival Of The Fittest",
+    "searchKeys": "ark survival of the fittest 아크 배틀로얄",
+    "genre": "생존 / 액션",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
+  },
+  {
+    "id": 412020,
+    "title": "Metro Exodus",
+    "searchKeys": "metro exodus 메트로 엑소더스",
+    "genre": "액션 / FPS",
+    "orig": 33000,
+    "current": 6600,
+    "discount": 80,
+    "avg": 6600,
+    "lowest": 3300,
     "lowestDate": "2024년 가을 할인"
   },
   {
@@ -744,6 +2568,18 @@
     "lowestDate": "2024년 봄 할인"
   },
   {
+    "id": 418370,
+    "title": "Resident Evil 7 Biohazard",
+    "searchKeys": "resident evil 7 바이오하자드7 바하7",
+    "genre": "공포 / 생존",
+    "orig": 22400,
+    "current": 8960,
+    "discount": 60,
+    "avg": 8960,
+    "lowest": 8960,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 420530,
     "title": "OneShot",
     "searchKeys": "oneshot 원샷",
@@ -754,6 +2590,18 @@
     "avg": 7700,
     "lowest": 5500,
     "lowestDate": "2024년 여름 할인"
+  },
+  {
+    "id": 424840,
+    "title": "Little Nightmares",
+    "searchKeys": "little nightmares 리틀나이트메어1 리틀나이트메어",
+    "genre": "공포 / 퍼즐",
+    "orig": 22800,
+    "current": 5700,
+    "discount": 75,
+    "avg": 5700,
+    "lowest": 2280,
+    "lowestDate": "2024년 할로윈 세일"
   },
   {
     "id": 427520,
@@ -804,6 +2652,42 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 438100,
+    "title": "VRChat",
+    "searchKeys": "vrchat 브이알챗 vr챗",
+    "genre": "캐주얼 / 소셜",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
+  },
+  {
+    "id": 440900,
+    "title": "Conan Exiles",
+    "searchKeys": "conan exiles 코난엑자일",
+    "genre": "생존 / 오픈월드",
+    "orig": 44000,
+    "current": 11000,
+    "discount": 75,
+    "avg": 13200,
+    "lowest": 11000,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 444090,
+    "title": "Paladins",
+    "searchKeys": "paladins 팔라딘즈",
+    "genre": "액션 / FPS",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
+  },
+  {
     "id": 444200,
     "title": "World of Tanks Blitz",
     "searchKeys": "world of tanks blitz 월드오브탱크 블리츠",
@@ -814,6 +2698,42 @@
     "avg": 0,
     "lowest": 0,
     "lowestDate": "기본 무료 플레이"
+  },
+  {
+    "id": 447530,
+    "title": "VA-11 Hall-A: Cyberpunk Bartender Action",
+    "searchKeys": "va-11 hall-a 발할라 사이버펑크 바텐더",
+    "genre": "인디 / 스토리",
+    "orig": 16500,
+    "current": 11050,
+    "discount": 33,
+    "avg": 11050,
+    "lowest": 11050,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 457140,
+    "title": "Oxygen Not Included",
+    "searchKeys": "oxygen not included 산소미포함",
+    "genre": "생존 / 시뮬레이션",
+    "orig": 27000,
+    "current": 9180,
+    "discount": 66,
+    "avg": 9180,
+    "lowest": 6750,
+    "lowestDate": "2024년 여름 할인"
+  },
+  {
+    "id": 460930,
+    "title": "Tom Clancy's Ghost Recon® Wildlands",
+    "searchKeys": "ghost recon wildlands 고스트리콘 와일드랜드",
+    "genre": "액션 / 오픈월드",
+    "orig": 55000,
+    "current": 11000,
+    "discount": 80,
+    "avg": 11000,
+    "lowest": 11000,
+    "lowestDate": "역대 최저가 타이"
   },
   {
     "id": 477160,
@@ -864,6 +2784,30 @@
     "lowestDate": "2024년 여름 할인"
   },
   {
+    "id": 508440,
+    "title": "Totally Accurate Battle Simulator",
+    "searchKeys": "tabs 토탈리 애큐레이트 배틀 시뮬레이터 병맛전쟁",
+    "genre": "인디 / 시뮬레이션",
+    "orig": 21500,
+    "current": 7310,
+    "discount": 66,
+    "avg": 7310,
+    "lowest": 5370,
+    "lowestDate": "2024년 겨울 할인"
+  },
+  {
+    "id": 518790,
+    "title": "theHunter: Call of the Wild™",
+    "searchKeys": "thehunter call of the wild 더헌터 콜오브더와일드",
+    "genre": "스포츠 / 시뮬레이션",
+    "orig": 21500,
+    "current": 4300,
+    "discount": 80,
+    "avg": 4300,
+    "lowest": 2150,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
     "id": 524220,
     "title": "NieR:Automata™",
     "searchKeys": "nier automata 니어오토마타",
@@ -888,6 +2832,42 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 527230,
+    "title": "For The King",
+    "searchKeys": "for the king 포더킹",
+    "genre": "RPG / 전략",
+    "orig": 21500,
+    "current": 4300,
+    "discount": 80,
+    "avg": 5370,
+    "lowest": 4300,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 529340,
+    "title": "Victoria 3",
+    "searchKeys": "victoria 3 빅토리아3 빅3",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 54000,
+    "current": 27000,
+    "discount": 50,
+    "avg": 32400,
+    "lowest": 27000,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 532210,
+    "title": "Life is Strange 2",
+    "searchKeys": "life is strange 2 라이프이즈스트레인지2",
+    "genre": "어드벤처 / 스토리",
+    "orig": 35800,
+    "current": 7160,
+    "discount": 80,
+    "avg": 7160,
+    "lowest": 7160,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 534380,
     "title": "Dying Light 2 Stay Human: Reloaded Edition",
     "searchKeys": "dying light 2 다잉라이트2",
@@ -900,9 +2880,33 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 544550,
+    "title": "Stationeers",
+    "searchKeys": "stationeers 스테이셔니어스",
+    "genre": "생존 / 시뮬레이션",
+    "orig": 32000,
+    "current": 22400,
+    "discount": 30,
+    "avg": 25600,
+    "lowest": 22400,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 544920,
+    "title": "DEATH STRANDING",
+    "searchKeys": "death stranding 데스스트랜딩",
+    "genre": "액션 / 어드벤처",
+    "orig": 44800,
+    "current": 13440,
+    "discount": 70,
+    "avg": 17920,
+    "lowest": 13440,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 546560,
     "title": "Half-Life: Alyx",
-    "searchKeys": "half-life alyx 하프라이프 알릭스 vr",
+    "searchKeys": "half-life alyx 하프라이프 알릭스",
     "genre": "액션 / VR",
     "orig": 61000,
     "current": 20740,
@@ -924,6 +2928,42 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 552500,
+    "title": "Warhammer: Vermintide 2",
+    "searchKeys": "vermintide 2 버민타이드2",
+    "genre": "액션 / 협동",
+    "orig": 32000,
+    "current": 6400,
+    "discount": 80,
+    "avg": 6400,
+    "lowest": 3200,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
+    "id": 552520,
+    "title": "Far Cry® 5",
+    "searchKeys": "far cry 5 파크라이5",
+    "genre": "액션 / 오픈월드",
+    "orig": 65000,
+    "current": 9750,
+    "discount": 85,
+    "avg": 13000,
+    "lowest": 9750,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 553420,
+    "title": "TUNIC",
+    "searchKeys": "tunic 튜닉",
+    "genre": "인디 / 어드벤처",
+    "orig": 32000,
+    "current": 16000,
+    "discount": 50,
+    "avg": 19200,
+    "lowest": 16000,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 553850,
     "title": "HELLDIVERS™ 2",
     "searchKeys": "helldivers 2 헬다이버즈2 헬다이버즈",
@@ -933,6 +2973,42 @@
     "discount": 20,
     "avg": 35840,
     "lowest": 35840,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 555160,
+    "title": "Pavlov",
+    "searchKeys": "pavlov vr 파블로브",
+    "genre": "액션 / VR",
+    "orig": 27000,
+    "current": 16200,
+    "discount": 40,
+    "avg": 18900,
+    "lowest": 16200,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 567640,
+    "title": "Danganronpa V3: Killing Harmony",
+    "searchKeys": "danganronpa v3 단간론파v3",
+    "genre": "어드벤처 / 추리",
+    "orig": 44000,
+    "current": 17600,
+    "discount": 60,
+    "avg": 17600,
+    "lowest": 13200,
+    "lowestDate": "2024년 여름 할인"
+  },
+  {
+    "id": 569480,
+    "title": "Kingdom Two Crowns",
+    "searchKeys": "kingdom two crowns 킹덤 투 크라운즈",
+    "genre": "인디 / 전략",
+    "orig": 21500,
+    "current": 5370,
+    "discount": 75,
+    "avg": 6450,
+    "lowest": 5370,
     "lowestDate": "역대 최저가 타이"
   },
   {
@@ -948,6 +3024,18 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 571740,
+    "title": "Golf It!",
+    "searchKeys": "golf it 골프잇",
+    "genre": "인디 / 파티",
+    "orig": 9500,
+    "current": 4750,
+    "discount": 50,
+    "avg": 4750,
+    "lowest": 4750,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 578080,
     "title": "PUBG: 배틀그라운드",
     "searchKeys": "pubg battlegrounds 배틀그라운드 배그",
@@ -958,6 +3046,18 @@
     "avg": 0,
     "lowest": 0,
     "lowestDate": "기본 무료 플레이"
+  },
+  {
+    "id": 581320,
+    "title": "Insurgency: Sandstorm",
+    "searchKeys": "insurgency sandstorm 인서전시 샌드스톰",
+    "genre": "액션 / FPS",
+    "orig": 34800,
+    "current": 11480,
+    "discount": 67,
+    "avg": 13920,
+    "lowest": 11480,
+    "lowestDate": "역대 최저가 타이"
   },
   {
     "id": 582010,
@@ -972,6 +3072,54 @@
     "lowestDate": "2025년 여름 할인"
   },
   {
+    "id": 582160,
+    "title": "Assassin's Creed® Origins",
+    "searchKeys": "assassin's creed origins 어쌔신크리드 오리진 어크",
+    "genre": "RPG / 오픈월드",
+    "orig": 65000,
+    "current": 9750,
+    "discount": 85,
+    "avg": 13000,
+    "lowest": 9750,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 582660,
+    "title": "Black Desert",
+    "searchKeys": "black desert 검은사막 검사",
+    "genre": "RPG / MMORPG",
+    "orig": 10000,
+    "current": 1000,
+    "discount": 90,
+    "avg": 3000,
+    "lowest": 0,
+    "lowestDate": "무료 배포 이력"
+  },
+  {
+    "id": 584400,
+    "title": "Sonic Mania",
+    "searchKeys": "sonic mania 소닉 매니아",
+    "genre": "액션 / 플랫포머",
+    "orig": 21800,
+    "current": 5450,
+    "discount": 75,
+    "avg": 5450,
+    "lowest": 5450,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 588430,
+    "title": "Fallout Shelter",
+    "searchKeys": "fallout shelter 폴아웃 쉘터",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
+  },
+  {
     "id": 588650,
     "title": "Dead Cells",
     "searchKeys": "dead cells 데드셀",
@@ -982,6 +3130,54 @@
     "avg": 13000,
     "lowest": 10400,
     "lowestDate": "2024년 여름 할인"
+  },
+  {
+    "id": 590380,
+    "title": "Into the Breach",
+    "searchKeys": "into the breach 인투더브리치",
+    "genre": "인디 / 전략",
+    "orig": 16500,
+    "current": 8250,
+    "discount": 50,
+    "avg": 8250,
+    "lowest": 4120,
+    "lowestDate": "2024년 봄 할인"
+  },
+  {
+    "id": 594570,
+    "title": "Total War: WARHAMMER II",
+    "searchKeys": "total war warhammer 2 토탈워 워해머2 햄탈워2",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 60000,
+    "current": 20400,
+    "discount": 66,
+    "avg": 20400,
+    "lowest": 20400,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 594650,
+    "title": "Hunt: Showdown 1896",
+    "searchKeys": "hunt showdown 헌트 쇼다운",
+    "genre": "액션 / FPS",
+    "orig": 32000,
+    "current": 16000,
+    "discount": 50,
+    "avg": 16000,
+    "lowest": 11200,
+    "lowestDate": "2024년 여름 할인"
+  },
+  {
+    "id": 597170,
+    "title": "Clone Drone in the Danger Zone",
+    "searchKeys": "clone drone 클론드론",
+    "genre": "인디 / 액션",
+    "orig": 21500,
+    "current": 8600,
+    "discount": 60,
+    "avg": 10750,
+    "lowest": 8600,
+    "lowestDate": "역대 최저가 타이"
   },
   {
     "id": 601150,
@@ -996,6 +3192,18 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 601430,
+    "title": "The Evil Within 2",
+    "searchKeys": "evil within 2 이블위딘2",
+    "genre": "공포 / 생존",
+    "orig": 47000,
+    "current": 9400,
+    "discount": 80,
+    "avg": 9400,
+    "lowest": 7050,
+    "lowestDate": "2024년 할로윈 세일"
+  },
+  {
     "id": 602960,
     "title": "Barotrauma",
     "searchKeys": "barotrauma 바로트라우마",
@@ -1006,6 +3214,78 @@
     "avg": 13960,
     "lowest": 9970,
     "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 606880,
+    "title": "GreedFall",
+    "searchKeys": "greedfall 그리드폴",
+    "genre": "RPG / 오픈월드",
+    "orig": 39800,
+    "current": 7960,
+    "discount": 80,
+    "avg": 9950,
+    "lowest": 7960,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 607080,
+    "title": "Psychonauts 2",
+    "searchKeys": "psychonauts 2 사이코너츠2",
+    "genre": "액션 / 플랫포머",
+    "orig": 59900,
+    "current": 11980,
+    "discount": 80,
+    "avg": 14970,
+    "lowest": 11980,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 611670,
+    "title": "The Elder Scrolls V: Skyrim VR",
+    "searchKeys": "skyrim vr 스카이림 vr",
+    "genre": "RPG / VR",
+    "orig": 69000,
+    "current": 17250,
+    "discount": 75,
+    "avg": 17250,
+    "lowest": 17250,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 612880,
+    "title": "Wolfenstein II: The New Colossus",
+    "searchKeys": "wolfenstein 2 울펜슈타인2",
+    "genre": "액션 / FPS",
+    "orig": 47000,
+    "current": 7050,
+    "discount": 85,
+    "avg": 7050,
+    "lowest": 7050,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 613100,
+    "title": "House Flipper",
+    "searchKeys": "house flipper 하우스플리퍼",
+    "genre": "인디 / 시뮬레이션",
+    "orig": 27000,
+    "current": 5400,
+    "discount": 80,
+    "avg": 6750,
+    "lowest": 2700,
+    "lowestDate": "2024년 봄 할인"
+  },
+  {
+    "id": 617290,
+    "title": "Remnant: From the Ashes",
+    "searchKeys": "remnant from the ashes 렘넌트1",
+    "genre": "액션 / 슈터",
+    "orig": 41000,
+    "current": 12300,
+    "discount": 70,
+    "avg": 12300,
+    "lowest": 10250,
+    "lowestDate": "2024년 여름 할인"
   },
   {
     "id": 620980,
@@ -1020,6 +3300,54 @@
     "lowestDate": "할인 이력 없음"
   },
   {
+    "id": 621060,
+    "title": "PC Building Simulator",
+    "searchKeys": "pc building simulator pc빌딩시뮬레이터 컴퓨터조립",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 21500,
+    "current": 5370,
+    "discount": 75,
+    "avg": 5370,
+    "lowest": 5370,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 627270,
+    "title": "Injustice™ 2",
+    "searchKeys": "injustice 2 인저스티스2",
+    "genre": "액션 / 격투",
+    "orig": 54800,
+    "current": 5480,
+    "discount": 90,
+    "avg": 5480,
+    "lowest": 5480,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 629760,
+    "title": "MORDHAU",
+    "searchKeys": "mordhau 모르드하우",
+    "genre": "액션 / 격투",
+    "orig": 32000,
+    "current": 6400,
+    "discount": 80,
+    "avg": 8000,
+    "lowest": 6400,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 632360,
+    "title": "Risk of Rain 2",
+    "searchKeys": "risk of rain 2 리스크오브레인2 리오레2",
+    "genre": "인디 / 로그라이크",
+    "orig": 27000,
+    "current": 8910,
+    "discount": 67,
+    "avg": 13500,
+    "lowest": 8910,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 632470,
     "title": "Disco Elysium - The Final Cut",
     "searchKeys": "disco elysium 디스코엘리시움",
@@ -1030,6 +3358,30 @@
     "avg": 10250,
     "lowest": 4100,
     "lowestDate": "2024년 봄 할인"
+  },
+  {
+    "id": 633230,
+    "title": "NARUTO TO BORUTO: SHINOBI STRIKER",
+    "searchKeys": "naruto shinobi striker 나루토 시노비스트라이커",
+    "genre": "액션 / 격투",
+    "orig": 54800,
+    "current": 5480,
+    "discount": 90,
+    "avg": 8220,
+    "lowest": 5480,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 637090,
+    "title": "BATTLETECH",
+    "searchKeys": "battletech 배틀테크",
+    "genre": "전략 / 턴제",
+    "orig": 44000,
+    "current": 11000,
+    "discount": 75,
+    "avg": 11000,
+    "lowest": 11000,
+    "lowestDate": "역대 최저가 타이"
   },
   {
     "id": 638230,
@@ -1044,6 +3396,42 @@
     "lowestDate": "2024년 겨울 할인"
   },
   {
+    "id": 641320,
+    "title": "Cooking Simulator",
+    "searchKeys": "cooking simulator 쿠킹시뮬레이터 요리",
+    "genre": "인디 / 시뮬레이션",
+    "orig": 21500,
+    "current": 6450,
+    "discount": 70,
+    "avg": 8600,
+    "lowest": 4300,
+    "lowestDate": "2024년 봄 할인"
+  },
+  {
+    "id": 644560,
+    "title": "Mirror",
+    "searchKeys": "mirror 미러 퍼즐",
+    "genre": "인디 / 퍼즐",
+    "orig": 2300,
+    "current": 1150,
+    "discount": 50,
+    "avg": 1150,
+    "lowest": 1150,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 644930,
+    "title": "They Are Billions",
+    "searchKeys": "they are billions 데이아빌리언즈",
+    "genre": "전략 / RTS",
+    "orig": 32000,
+    "current": 24000,
+    "discount": 25,
+    "avg": 25600,
+    "lowest": 24000,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 646570,
     "title": "Slay the Spire",
     "searchKeys": "slay the spire 슬레이더스파이어 슬더스",
@@ -1056,6 +3444,30 @@
     "lowestDate": "2025년 여름 할인"
   },
   {
+    "id": 646910,
+    "title": "The Crew™ 2",
+    "searchKeys": "the crew 2 더크루2",
+    "genre": "스포츠 / 레이싱",
+    "orig": 55000,
+    "current": 1100,
+    "discount": 98,
+    "avg": 11000,
+    "lowest": 1100,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 648350,
+    "title": "Jurassic World Evolution",
+    "searchKeys": "jurassic world evolution 쥬라기월드 에볼루션",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 49000,
+    "current": 9800,
+    "discount": 80,
+    "avg": 9800,
+    "lowest": 4900,
+    "lowestDate": "2024년 여름 할인"
+  },
+  {
     "id": 648800,
     "title": "Raft",
     "searchKeys": "raft 래프트",
@@ -1065,6 +3477,150 @@
     "discount": 33,
     "avg": 14400,
     "lowest": 14400,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 653530,
+    "title": "Return of the Obra Dinn",
+    "searchKeys": "return of the obra dinn 오브라딘호",
+    "genre": "인디 / 추리",
+    "orig": 21500,
+    "current": 12900,
+    "discount": 40,
+    "avg": 15050,
+    "lowest": 10750,
+    "lowestDate": "2023년 가을 할인"
+  },
+  {
+    "id": 666140,
+    "title": "My Time At Portia",
+    "searchKeys": "my time at portia 마이타임앳포샤",
+    "genre": "인디 / 시뮬레이션",
+    "orig": 31000,
+    "current": 6200,
+    "discount": 80,
+    "avg": 6200,
+    "lowest": 6200,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 668580,
+    "title": "Atomic Heart",
+    "searchKeys": "atomic heart 아토믹하트",
+    "genre": "액션 / FPS",
+    "orig": 64800,
+    "current": 25920,
+    "discount": 60,
+    "avg": 32400,
+    "lowest": 25920,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 671860,
+    "title": "BattleBit Remastered",
+    "searchKeys": "battlebit remastered 배틀비트",
+    "genre": "액션 / FPS",
+    "orig": 16500,
+    "current": 8250,
+    "discount": 50,
+    "avg": 9900,
+    "lowest": 8250,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 673950,
+    "title": "Farm Together",
+    "searchKeys": "farm together 팜투게더",
+    "genre": "인디 / 시뮬레이션",
+    "orig": 21500,
+    "current": 12900,
+    "discount": 40,
+    "avg": 15050,
+    "lowest": 12900,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 674940,
+    "title": "Stick Fight: The Game",
+    "searchKeys": "stick fight 스틱파이트 졸라맨",
+    "genre": "인디 / 파티",
+    "orig": 5500,
+    "current": 2200,
+    "discount": 60,
+    "avg": 2750,
+    "lowest": 2200,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 678950,
+    "title": "DRAGON BALL FighterZ",
+    "searchKeys": "dragon ball fighterz 드래곤볼 파이터즈",
+    "genre": "액션 / 격투",
+    "orig": 54800,
+    "current": 8220,
+    "discount": 85,
+    "avg": 8220,
+    "lowest": 8220,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 678960,
+    "title": "CODE VEIN",
+    "searchKeys": "code vein 코드베인",
+    "genre": "RPG / 소울라이크",
+    "orig": 54800,
+    "current": 8220,
+    "discount": 85,
+    "avg": 8220,
+    "lowest": 8220,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 680420,
+    "title": "OUTRIDERS",
+    "searchKeys": "outriders 아웃라이더스",
+    "genre": "액션 / 슈터",
+    "orig": 44800,
+    "current": 11200,
+    "discount": 75,
+    "avg": 11200,
+    "lowest": 8960,
+    "lowestDate": "2024년 여름 할인"
+  },
+  {
+    "id": 683320,
+    "title": "GRIS",
+    "searchKeys": "gris 그리스",
+    "genre": "인디 / 플랫포머",
+    "orig": 16500,
+    "current": 3300,
+    "discount": 80,
+    "avg": 3300,
+    "lowest": 2470,
+    "lowestDate": "2024년 겨울 할인"
+  },
+  {
+    "id": 686810,
+    "title": "Hell Let Loose",
+    "searchKeys": "hell let loose 헬렛루즈",
+    "genre": "액션 / FPS",
+    "orig": 47000,
+    "current": 23500,
+    "discount": 50,
+    "avg": 28200,
+    "lowest": 23500,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 692850,
+    "title": "Bloodstained: Ritual of the Night",
+    "searchKeys": "bloodstained 블러드스테인드",
+    "genre": "액션 / 메트로배니아",
+    "orig": 41000,
+    "current": 10250,
+    "discount": 75,
+    "avg": 12300,
+    "lowest": 10250,
     "lowestDate": "역대 최저가 타이"
   },
   {
@@ -1080,6 +3636,18 @@
     "lowestDate": "기본 무료 플레이"
   },
   {
+    "id": 701160,
+    "title": "Kingdom Two Crowns: Norse Lands",
+    "searchKeys": "kingdom two crowns 킹덤",
+    "genre": "인디 / 전략",
+    "orig": 21500,
+    "current": 5370,
+    "discount": 75,
+    "avg": 6450,
+    "lowest": 5370,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 703080,
     "title": "Planet Zoo",
     "searchKeys": "planet zoo 플래닛주",
@@ -1092,6 +3660,30 @@
     "lowestDate": "2024년 가을 할인"
   },
   {
+    "id": 704270,
+    "title": "Generation Zero®",
+    "searchKeys": "generation zero 제너레이션 제로",
+    "genre": "액션 / 오픈월드",
+    "orig": 27000,
+    "current": 5400,
+    "discount": 80,
+    "avg": 6750,
+    "lowest": 5400,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 714010,
+    "title": "Aimlabs",
+    "searchKeys": "aimlabs 에임랩 에임연습",
+    "genre": "액션 / FPS",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
+  },
+  {
     "id": 728880,
     "title": "Overcooked! 2",
     "searchKeys": "overcooked 2 오버쿡드2",
@@ -1102,6 +3694,18 @@
     "avg": 6500,
     "lowest": 6500,
     "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 736260,
+    "title": "Baba Is You",
+    "searchKeys": "baba is you 바바이즈유",
+    "genre": "인디 / 퍼즐",
+    "orig": 16500,
+    "current": 11550,
+    "discount": 30,
+    "avg": 11550,
+    "lowest": 9900,
+    "lowestDate": "2023년 겨울 할인"
   },
   {
     "id": 739630,
@@ -1140,6 +3744,30 @@
     "lowestDate": "2024년 봄 할인"
   },
   {
+    "id": 751780,
+    "title": "Forager",
+    "searchKeys": "forager 포레이저",
+    "genre": "인디 / 크래프팅",
+    "orig": 21500,
+    "current": 7520,
+    "discount": 65,
+    "avg": 7520,
+    "lowest": 7520,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 752590,
+    "title": "A Plague Tale: Innocence",
+    "searchKeys": "a plague tale innocence 플래그테일 이노센스",
+    "genre": "액션 / 어드벤처",
+    "orig": 44800,
+    "current": 8960,
+    "discount": 80,
+    "avg": 8960,
+    "lowest": 8960,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 753640,
     "title": "Outer Wilds",
     "searchKeys": "outer wilds 아우터와일즈",
@@ -1149,6 +3777,78 @@
     "discount": 40,
     "avg": 16200,
     "lowest": 16200,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 760060,
+    "title": "Mutant Year Zero: Road to Eden",
+    "searchKeys": "mutant year zero 뮤턴트 이어 제로",
+    "genre": "전략 / 턴제",
+    "orig": 37000,
+    "current": 14800,
+    "discount": 60,
+    "avg": 14800,
+    "lowest": 14800,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 761890,
+    "title": "Albion Online",
+    "searchKeys": "albion online 알비온 온라인",
+    "genre": "RPG / MMORPG",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
+  },
+  {
+    "id": 774171,
+    "title": "Muse Dash",
+    "searchKeys": "muse dash 뮤즈대쉬",
+    "genre": "인디 / 리듬",
+    "orig": 3400,
+    "current": 1700,
+    "discount": 50,
+    "avg": 1700,
+    "lowest": 680,
+    "lowestDate": "2024년 여름 할인"
+  },
+  {
+    "id": 774361,
+    "title": "Blasphemous",
+    "searchKeys": "blasphemous 블래스퍼머스",
+    "genre": "인디 / 메트로배니아",
+    "orig": 27000,
+    "current": 6750,
+    "discount": 75,
+    "avg": 6750,
+    "lowest": 6750,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 779340,
+    "title": "Total War: THREE KINGDOMS",
+    "searchKeys": "total war three kingdoms 삼국지 토탈워 삼탈워",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 60000,
+    "current": 20400,
+    "discount": 66,
+    "avg": 20400,
+    "lowest": 20400,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 780290,
+    "title": "Gloomhaven",
+    "searchKeys": "gloomhaven 글룸헤이븐",
+    "genre": "전략 / 턴제",
+    "orig": 37500,
+    "current": 15000,
+    "discount": 60,
+    "avg": 18750,
+    "lowest": 15000,
     "lowestDate": "역대 최저가 타이"
   },
   {
@@ -1164,6 +3864,54 @@
     "lowestDate": "2024년 가을 할인"
   },
   {
+    "id": 784080,
+    "title": "MechWarrior 5: Mercenaries",
+    "searchKeys": "mechwarrior 5 멕워리어5",
+    "genre": "액션 / 메카닉",
+    "orig": 32000,
+    "current": 12800,
+    "discount": 60,
+    "avg": 16000,
+    "lowest": 12800,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 787480,
+    "title": "Phoenix Wright: Ace Attorney Trilogy",
+    "searchKeys": "ace attorney 역전재판123 역전재판",
+    "genre": "어드벤처 / 추리",
+    "orig": 34800,
+    "current": 11480,
+    "discount": 67,
+    "avg": 11480,
+    "lowest": 11480,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 787860,
+    "title": "Farming Simulator 19",
+    "searchKeys": "farming simulator 19 파밍시뮬레이터19",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 22000,
+    "current": 11000,
+    "discount": 50,
+    "avg": 11000,
+    "lowest": 11000,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 805550,
+    "title": "Assetto Corsa Competizione",
+    "searchKeys": "assetto corsa competizione 아세토코르사 컴페티치오네",
+    "genre": "스포츠 / 레이싱",
+    "orig": 44000,
+    "current": 13200,
+    "discount": 70,
+    "avg": 13200,
+    "lowest": 13200,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 812140,
     "title": "Assassin's Creed® Odyssey",
     "searchKeys": "assassin's creed odyssey 어쌔신크리드 오디세이 어크",
@@ -1174,6 +3922,18 @@
     "avg": 13000,
     "lowest": 9750,
     "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 813780,
+    "title": "Age of Empires II: Definitive Edition",
+    "searchKeys": "age of empires 2 definitive 에이지오브엠파이어2 결정판",
+    "genre": "전략 / RTS",
+    "orig": 22900,
+    "current": 11450,
+    "discount": 50,
+    "avg": 11450,
+    "lowest": 5720,
+    "lowestDate": "2024년 봄 할인"
   },
   {
     "id": 814380,
@@ -1188,6 +3948,54 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 815370,
+    "title": "Green Hell",
+    "searchKeys": "green hell 그린헬",
+    "genre": "생존 / 크래프팅",
+    "orig": 27000,
+    "current": 8910,
+    "discount": 67,
+    "avg": 13500,
+    "lowest": 8910,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 823500,
+    "title": "BONEWORKS",
+    "searchKeys": "boneworks 본웍스 vr",
+    "genre": "액션 / VR",
+    "orig": 32000,
+    "current": 25600,
+    "discount": 20,
+    "avg": 25600,
+    "lowest": 25600,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 834910,
+    "title": "ATLAS",
+    "searchKeys": "atlas 아틀라스 해적",
+    "genre": "생존 / 오픈월드",
+    "orig": 32000,
+    "current": 8000,
+    "discount": 75,
+    "avg": 8000,
+    "lowest": 5440,
+    "lowestDate": "2023년 여름 할인"
+  },
+  {
+    "id": 841370,
+    "title": "NBA 2K19",
+    "searchKeys": "nba 2k 농구",
+    "genre": "스포츠 / 농구",
+    "orig": 65000,
+    "current": 9750,
+    "discount": 85,
+    "avg": 9750,
+    "lowest": 3250,
+    "lowestDate": "2019년 여름 할인"
+  },
+  {
     "id": 848450,
     "title": "Subnautica: Below Zero",
     "searchKeys": "subnautica below zero 서브노티카 빌로우제로",
@@ -1197,6 +4005,126 @@
     "discount": 67,
     "avg": 14400,
     "lowest": 10560,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 851850,
+    "title": "DRAGON BALL Z: KAKAROT",
+    "searchKeys": "dragon ball z kakarot 드래곤볼z 카카로트",
+    "genre": "액션 / RPG",
+    "orig": 64800,
+    "current": 16200,
+    "discount": 75,
+    "avg": 16200,
+    "lowest": 16200,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 858820,
+    "title": "Tribes of Midgard",
+    "searchKeys": "tribes of midgard 트라이브스 오브 미드가르드",
+    "genre": "생존 / 액션",
+    "orig": 21500,
+    "current": 6450,
+    "discount": 70,
+    "avg": 6450,
+    "lowest": 4300,
+    "lowestDate": "2024년 여름 할인"
+  },
+  {
+    "id": 859580,
+    "title": "Imperator: Rome",
+    "searchKeys": "imperator rome 임페라토르 롬",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 44000,
+    "current": 13200,
+    "discount": 70,
+    "avg": 13200,
+    "lowest": 8800,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
+    "id": 863550,
+    "title": "HITMAN™ 2",
+    "searchKeys": "hitman 2 히트맨2",
+    "genre": "액션 / 잠입",
+    "orig": 65000,
+    "current": 13000,
+    "discount": 80,
+    "avg": 13000,
+    "lowest": 9750,
+    "lowestDate": "2022년 여름 할인"
+  },
+  {
+    "id": 870780,
+    "title": "Control Ultimate Edition",
+    "searchKeys": "control ultimate edition 컨트롤",
+    "genre": "액션 / 어드벤처",
+    "orig": 44000,
+    "current": 11000,
+    "discount": 75,
+    "avg": 11000,
+    "lowest": 8800,
+    "lowestDate": "2024년 겨울 할인"
+  },
+  {
+    "id": 872200,
+    "title": "Resident Evil 3",
+    "searchKeys": "resident evil 3 바이오하자드 re3 바하3",
+    "genre": "공포 / 액션",
+    "orig": 44800,
+    "current": 11200,
+    "discount": 75,
+    "avg": 11200,
+    "lowest": 11200,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 872790,
+    "title": "Football Manager 2020",
+    "searchKeys": "football manager 풋볼매니저 fm",
+    "genre": "스포츠 / 시뮬레이션",
+    "orig": 54000,
+    "current": 27000,
+    "discount": 50,
+    "avg": 27000,
+    "lowest": 18360,
+    "lowestDate": "2020년 여름 할인"
+  },
+  {
+    "id": 880940,
+    "title": "Pummel Party",
+    "searchKeys": "pummel party 펌멜파티",
+    "genre": "인디 / 파티",
+    "orig": 16500,
+    "current": 9900,
+    "discount": 40,
+    "avg": 9900,
+    "lowest": 8250,
+    "lowestDate": "2024년 여름 할인"
+  },
+  {
+    "id": 881020,
+    "title": "Granblue Fantasy: Relink",
+    "searchKeys": "granblue fantasy relink 그랑블루 판타지 리링크",
+    "genre": "액션 / RPG",
+    "orig": 64800,
+    "current": 32400,
+    "discount": 50,
+    "avg": 45360,
+    "lowest": 32400,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 881100,
+    "title": "Noita",
+    "searchKeys": "noita 노이타",
+    "genre": "인디 / 로그라이크",
+    "orig": 21500,
+    "current": 8600,
+    "discount": 60,
+    "avg": 10750,
+    "lowest": 8600,
     "lowestDate": "역대 최저가 타이"
   },
   {
@@ -1212,6 +4140,18 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 887060,
+    "title": "Ancestors: The Humankind Odyssey",
+    "searchKeys": "ancestors humankind odyssey 앤세스터",
+    "genre": "생존 / 어드벤처",
+    "orig": 44000,
+    "current": 11000,
+    "discount": 75,
+    "avg": 11000,
+    "lowest": 8800,
+    "lowestDate": "2024년 봄 할인"
+  },
+  {
     "id": 892970,
     "title": "Valheim",
     "searchKeys": "valheim 발헤임",
@@ -1224,6 +4164,30 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 895400,
+    "title": "Deadside",
+    "searchKeys": "deadside 데드사이드",
+    "genre": "생존 / FPS",
+    "orig": 27000,
+    "current": 16200,
+    "discount": 40,
+    "avg": 18900,
+    "lowest": 13500,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
+    "id": 897450,
+    "title": "The Survivalists",
+    "searchKeys": "the survivalists 서바이벌리스트",
+    "genre": "생존 / 크래프팅",
+    "orig": 27000,
+    "current": 6750,
+    "discount": 75,
+    "avg": 6750,
+    "lowest": 2700,
+    "lowestDate": "2024년 여름 할인"
+  },
+  {
     "id": 899770,
     "title": "Last Epoch",
     "searchKeys": "last epoch 라스트에포크",
@@ -1233,6 +4197,114 @@
     "discount": 20,
     "avg": 30000,
     "lowest": 30000,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 911400,
+    "title": "Assassin's Creed® III Remastered",
+    "searchKeys": "assassin's creed 3 remastered 어쌔신크리드3 어크3",
+    "genre": "액션 / 어드벤처",
+    "orig": 44000,
+    "current": 11000,
+    "discount": 75,
+    "avg": 11000,
+    "lowest": 8800,
+    "lowestDate": "2024년 봄 할인"
+  },
+  {
+    "id": 914710,
+    "title": "Cat Quest II",
+    "searchKeys": "cat quest 2 캣퀘스트2",
+    "genre": "인디 / RPG",
+    "orig": 16500,
+    "current": 4120,
+    "discount": 75,
+    "avg": 4950,
+    "lowest": 3300,
+    "lowestDate": "2024년 겨울 할인"
+  },
+  {
+    "id": 915810,
+    "title": "Midnight Ghost Hunt",
+    "searchKeys": "midnight ghost hunt 미드나잇 고스트 헌트",
+    "genre": "액션 / 파티",
+    "orig": 21500,
+    "current": 7310,
+    "discount": 66,
+    "avg": 7310,
+    "lowest": 5370,
+    "lowestDate": "2024년 할로윈 세일"
+  },
+  {
+    "id": 916440,
+    "title": "Anno 1800",
+    "searchKeys": "anno 1800 아노1800",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 65000,
+    "current": 16250,
+    "discount": 75,
+    "avg": 16250,
+    "lowest": 6500,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
+    "id": 920210,
+    "title": "LEGO® Star Wars™: The Skywalker Saga",
+    "searchKeys": "lego star wars 레고 스타워즈 스카이워커 사가",
+    "genre": "액션 / 어드벤처",
+    "orig": 54800,
+    "current": 10960,
+    "discount": 80,
+    "avg": 13700,
+    "lowest": 10960,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 924970,
+    "title": "Back 4 Blood",
+    "searchKeys": "back 4 blood 백포블러드",
+    "genre": "공포 / FPS",
+    "orig": 65800,
+    "current": 6580,
+    "discount": 90,
+    "avg": 9870,
+    "lowest": 6580,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 933110,
+    "title": "Age of Empires III: Definitive Edition",
+    "searchKeys": "age of empires 3 definitive 에이지오브엠파이어3 결정판",
+    "genre": "전략 / RTS",
+    "orig": 22900,
+    "current": 5720,
+    "discount": 75,
+    "avg": 5720,
+    "lowest": 5720,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 934700,
+    "title": "Dead Island Definitive Edition",
+    "searchKeys": "dead island definitive 데드아일랜드 결정판",
+    "genre": "공포 / 액션",
+    "orig": 21000,
+    "current": 3150,
+    "discount": 85,
+    "avg": 3150,
+    "lowest": 3150,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 939850,
+    "title": "The Dark Pictures Anthology: Man of Medan",
+    "searchKeys": "man of medan 맨오브메단 다크픽처스",
+    "genre": "공포 / 어드벤처",
+    "orig": 21800,
+    "current": 7190,
+    "discount": 67,
+    "avg": 7190,
+    "lowest": 7190,
     "lowestDate": "역대 최저가 타이"
   },
   {
@@ -1248,6 +4320,66 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 949230,
+    "title": "Cities: Skylines II",
+    "searchKeys": "cities skylines 2 시티즈스카이라인2 시티즈2",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 54000,
+    "current": 43200,
+    "discount": 20,
+    "avg": 48600,
+    "lowest": 43200,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 952060,
+    "title": "Resident Evil 3 (2020)",
+    "searchKeys": "biohazard re3 바이오하자드3 리메이크",
+    "genre": "공포 / 액션",
+    "orig": 44800,
+    "current": 11200,
+    "discount": 75,
+    "avg": 11200,
+    "lowest": 11200,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 960090,
+    "title": "Bloons TD 6",
+    "searchKeys": "bloons td 6 풍선타워디펜스6 풍타디6",
+    "genre": "전략 / 타워디펜스",
+    "orig": 15500,
+    "current": 4650,
+    "discount": 70,
+    "avg": 4650,
+    "lowest": 1550,
+    "lowestDate": "2024년 여름 할인"
+  },
+  {
+    "id": 962130,
+    "title": "Grounded",
+    "searchKeys": "grounded 그라운디드",
+    "genre": "생존 / 크래프팅",
+    "orig": 44800,
+    "current": 22400,
+    "discount": 50,
+    "avg": 26880,
+    "lowest": 22400,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 972660,
+    "title": "Spiritfarer®: Farewell Edition",
+    "searchKeys": "spiritfarer 스피릿페어러",
+    "genre": "인디 / 시뮬레이션",
+    "orig": 32000,
+    "current": 4800,
+    "discount": 85,
+    "avg": 6400,
+    "lowest": 4800,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 975370,
     "title": "Dwarf Fortress",
     "searchKeys": "dwarf fortress 드워프포트리스",
@@ -1257,6 +4389,18 @@
     "discount": 20,
     "avg": 28800,
     "lowest": 25600,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 976310,
+    "title": "Mortal Kombat 11",
+    "searchKeys": "mortal kombat 11 모탈컴뱃11",
+    "genre": "액션 / 격투",
+    "orig": 54800,
+    "current": 5480,
+    "discount": 90,
+    "avg": 5480,
+    "lowest": 5480,
     "lowestDate": "역대 최저가 타이"
   },
   {
@@ -1272,6 +4416,42 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 977880,
+    "title": "Eastward",
+    "searchKeys": "eastward 이스트워드",
+    "genre": "인디 / RPG",
+    "orig": 26000,
+    "current": 13000,
+    "discount": 50,
+    "avg": 15600,
+    "lowest": 13000,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 977950,
+    "title": "A Dance of Fire and Ice",
+    "searchKeys": "a dance of fire and ice 얼불춤 불춤",
+    "genre": "인디 / 리듬",
+    "orig": 6500,
+    "current": 5200,
+    "discount": 20,
+    "avg": 5200,
+    "lowest": 4550,
+    "lowestDate": "2024년 겨울 할인"
+  },
+  {
+    "id": 979690,
+    "title": "The Ascent",
+    "searchKeys": "the ascent 디 어센트",
+    "genre": "액션 / RPG",
+    "orig": 32000,
+    "current": 8000,
+    "discount": 75,
+    "avg": 9600,
+    "lowest": 8000,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 990080,
     "title": "호그와트 레거시",
     "searchKeys": "hogwarts legacy 호그와트레거시 해리포터",
@@ -1284,6 +4464,54 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 997070,
+    "title": "Marvel's Avengers - The Definitive Edition",
+    "searchKeys": "marvel's avengers 마블 어벤져스",
+    "genre": "액션 / 어드벤처",
+    "orig": 44800,
+    "current": 4480,
+    "discount": 90,
+    "avg": 6720,
+    "lowest": 4480,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1016920,
+    "title": "Unrailed!",
+    "searchKeys": "unrailed 언레일드 기차",
+    "genre": "인디 / 협동",
+    "orig": 21500,
+    "current": 4300,
+    "discount": 80,
+    "avg": 5370,
+    "lowest": 4300,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1030300,
+    "title": "Hollow Knight: Silksong",
+    "searchKeys": "hollow knight silksong 할로우나이트 실크송",
+    "genre": "인디 / 메트로배니아",
+    "orig": 21500,
+    "current": 21500,
+    "discount": 0,
+    "avg": 21500,
+    "lowest": 21500,
+    "lowestDate": "할인 이력 없음"
+  },
+  {
+    "id": 1049590,
+    "title": "Eternal Return",
+    "searchKeys": "eternal return 이터널리턴 이리",
+    "genre": "전략 / MOBA",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
+  },
+  {
     "id": 1057090,
     "title": "Ori and the Will of the Wisps",
     "searchKeys": "ori and the will of the wisps 오리",
@@ -1293,6 +4521,54 @@
     "discount": 80,
     "avg": 8970,
     "lowest": 5980,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1061910,
+    "title": "Metal: Hellsinger",
+    "searchKeys": "metal hellsinger 메탈 헬싱어",
+    "genre": "액션 / 리듬",
+    "orig": 32000,
+    "current": 9600,
+    "discount": 70,
+    "avg": 11200,
+    "lowest": 9600,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1063730,
+    "title": "New World: Aeternum",
+    "searchKeys": "new world 뉴월드",
+    "genre": "RPG / MMORPG",
+    "orig": 64800,
+    "current": 45360,
+    "discount": 30,
+    "avg": 45360,
+    "lowest": 19440,
+    "lowestDate": "2023년 가을 할인"
+  },
+  {
+    "id": 1066780,
+    "title": "Transport Fever 2",
+    "searchKeys": "transport fever 2 트랜스포트 피버2",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 44000,
+    "current": 11000,
+    "discount": 75,
+    "avg": 13200,
+    "lowest": 11000,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1084600,
+    "title": "My Time at Sandrock",
+    "searchKeys": "my time at sandrock 마이타임앳샌드록",
+    "genre": "인디 / 시뮬레이션",
+    "orig": 44000,
+    "current": 26400,
+    "discount": 40,
+    "avg": 30800,
+    "lowest": 26400,
     "lowestDate": "역대 최저가 타이"
   },
   {
@@ -1320,6 +4596,18 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 1088850,
+    "title": "Marvel's Guardians of the Galaxy",
+    "searchKeys": "guardians of the galaxy 가디언즈 오브 갤럭시 가오갤",
+    "genre": "액션 / 어드벤처",
+    "orig": 65000,
+    "current": 13000,
+    "discount": 80,
+    "avg": 16250,
+    "lowest": 13000,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 1091500,
     "title": "사이버펑크 2077",
     "searchKeys": "cyberpunk 2077 사이버펑크 싸펑",
@@ -1330,6 +4618,30 @@
     "avg": 39600,
     "lowest": 26400,
     "lowestDate": "2025년 겨울 할인"
+  },
+  {
+    "id": 1092790,
+    "title": "Inscryption",
+    "searchKeys": "inscryption 인스크립션",
+    "genre": "인디 / 카드덱빌딩",
+    "orig": 21500,
+    "current": 8600,
+    "discount": 60,
+    "avg": 10750,
+    "lowest": 8600,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1096530,
+    "title": "Solasta: Crown of the Magister",
+    "searchKeys": "solasta 솔라스타",
+    "genre": "RPG / 턴제",
+    "orig": 32000,
+    "current": 9600,
+    "discount": 70,
+    "avg": 9600,
+    "lowest": 9600,
+    "lowestDate": "역대 최저가 타이"
   },
   {
     "id": 1097150,
@@ -1344,6 +4656,30 @@
     "lowestDate": "기본 무료 플레이"
   },
   {
+    "id": 1100600,
+    "title": "Football Manager 2021",
+    "searchKeys": "football manager 2021 fm2021",
+    "genre": "스포츠 / 시뮬레이션",
+    "orig": 54000,
+    "current": 27000,
+    "discount": 50,
+    "avg": 27000,
+    "lowest": 18360,
+    "lowestDate": "2021년 여름 할인"
+  },
+  {
+    "id": 1113000,
+    "title": "Persona 4 Golden",
+    "searchKeys": "persona 4 golden 페르소나4 골든",
+    "genre": "RPG / JRPG",
+    "orig": 19800,
+    "current": 11880,
+    "discount": 40,
+    "avg": 13860,
+    "lowest": 11880,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 1113560,
     "title": "NieR Replicant™ ver.1.22474487139...",
     "searchKeys": "nier replicant 니어레플리칸트",
@@ -1353,6 +4689,54 @@
     "discount": 60,
     "avg": 27920,
     "lowest": 27920,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1124300,
+    "title": "HUMANKIND™",
+    "searchKeys": "humankind 휴먼카인드",
+    "genre": "전략 / 턴제",
+    "orig": 59000,
+    "current": 11800,
+    "discount": 80,
+    "avg": 14750,
+    "lowest": 5900,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
+    "id": 1127400,
+    "title": "Mindustry",
+    "searchKeys": "mindustry 민더스트리",
+    "genre": "인디 / 전략",
+    "orig": 11000,
+    "current": 5500,
+    "discount": 50,
+    "avg": 5500,
+    "lowest": 5500,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1127500,
+    "title": "Mini Motorways",
+    "searchKeys": "mini motorways 미니 모터웨이즈",
+    "genre": "인디 / 시뮬레이션",
+    "orig": 11000,
+    "current": 8800,
+    "discount": 20,
+    "avg": 8800,
+    "lowest": 8800,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1128920,
+    "title": "EVERSPACE™ 2",
+    "searchKeys": "everspace 2 에버스페이스2",
+    "genre": "액션 / RPG",
+    "orig": 54000,
+    "current": 21600,
+    "discount": 60,
+    "avg": 27000,
+    "lowest": 21600,
     "lowestDate": "역대 최저가 타이"
   },
   {
@@ -1368,6 +4752,18 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 1139900,
+    "title": "Ghostrunner",
+    "searchKeys": "ghostrunner 고스트러너",
+    "genre": "액션 / 플랫포머",
+    "orig": 32000,
+    "current": 8000,
+    "discount": 75,
+    "avg": 9600,
+    "lowest": 6400,
+    "lowestDate": "2024년 봄 할인"
+  },
+  {
     "id": 1142710,
     "title": "Total War: WARHAMMER III",
     "searchKeys": "total war warhammer 3 토탈워 워해머3 햄탈워",
@@ -1377,6 +4773,18 @@
     "discount": 60,
     "avg": 30000,
     "lowest": 24000,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1144200,
+    "title": "Ready or Not",
+    "searchKeys": "ready or not 레디오어낫",
+    "genre": "액션 / FPS",
+    "orig": 53000,
+    "current": 31800,
+    "discount": 40,
+    "avg": 37100,
+    "lowest": 31800,
     "lowestDate": "역대 최저가 타이"
   },
   {
@@ -1402,6 +4810,30 @@
     "avg": 32000,
     "lowest": 28800,
     "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1147690,
+    "title": "NGU IDLE",
+    "searchKeys": "ngu idle 방치형",
+    "genre": "인디 / 캐주얼",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
+  },
+  {
+    "id": 1149460,
+    "title": "ICARUS",
+    "searchKeys": "icarus 이카루스",
+    "genre": "생존 / 크래프팅",
+    "orig": 37500,
+    "current": 18750,
+    "discount": 50,
+    "avg": 22500,
+    "lowest": 12750,
+    "lowestDate": "2024년 여름 할인"
   },
   {
     "id": 1150690,
@@ -1440,6 +4872,30 @@
     "lowestDate": "2024년 여름 할인"
   },
   {
+    "id": 1158850,
+    "title": "The Great Ace Attorney Chronicles",
+    "searchKeys": "great ace attorney 대역전재판",
+    "genre": "어드벤처 / 추리",
+    "orig": 44800,
+    "current": 17920,
+    "discount": 60,
+    "avg": 17920,
+    "lowest": 17920,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1167630,
+    "title": "Teardown",
+    "searchKeys": "teardown 티어다운 파괴",
+    "genre": "인디 / 샌드박스",
+    "orig": 32000,
+    "current": 16000,
+    "discount": 50,
+    "avg": 19200,
+    "lowest": 16000,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 1172380,
     "title": "STAR WARS Jedi: Fallen Order™",
     "searchKeys": "star wars jedi fallen order 스타워즈 제다이 오더의 몰락",
@@ -1476,6 +4932,18 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 1172650,
+    "title": "Unpacking",
+    "searchKeys": "unpacking 언패킹 이삿짐",
+    "genre": "인디 / 퍼즐",
+    "orig": 21500,
+    "current": 10750,
+    "discount": 50,
+    "avg": 12900,
+    "lowest": 10750,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 1174180,
     "title": "Red Dead Redemption 2",
     "searchKeys": "red dead redemption 2 레데리 레드데드",
@@ -1497,6 +4965,42 @@
     "discount": 60,
     "avg": 27400,
     "lowest": 21920,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1184370,
+    "title": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
+    "searchKeys": "pathfinder wrath of the righteous 패스파인더",
+    "genre": "RPG / 턴제",
+    "orig": 44000,
+    "current": 13200,
+    "discount": 70,
+    "avg": 15400,
+    "lowest": 11000,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
+    "id": 1190460,
+    "title": "DEATH STRANDING DIRECTOR'S CUT",
+    "searchKeys": "death stranding director's cut 데스스트랜딩 디렉터스컷",
+    "genre": "액션 / 어드벤처",
+    "orig": 44800,
+    "current": 22400,
+    "discount": 50,
+    "avg": 22400,
+    "lowest": 22400,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1190970,
+    "title": "House Flipper 2",
+    "searchKeys": "house flipper 2 하우스플리퍼2",
+    "genre": "인디 / 시뮬레이션",
+    "orig": 42000,
+    "current": 29400,
+    "discount": 30,
+    "avg": 33600,
+    "lowest": 29400,
     "lowestDate": "역대 최저가 타이"
   },
   {
@@ -1536,6 +5040,42 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 1205520,
+    "title": "Pentiment",
+    "searchKeys": "pentiment 펜티먼트",
+    "genre": "어드벤처 / 스토리",
+    "orig": 22900,
+    "current": 11450,
+    "discount": 50,
+    "avg": 13740,
+    "lowest": 11450,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1217060,
+    "title": "Gunfire Reborn",
+    "searchKeys": "gunfire reborn 건파이어 리본",
+    "genre": "인디 / 로그라이크",
+    "orig": 21500,
+    "current": 13970,
+    "discount": 35,
+    "avg": 15050,
+    "lowest": 13970,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1221250,
+    "title": "NORCO",
+    "searchKeys": "norco 노르코",
+    "genre": "인디 / 어드벤처",
+    "orig": 16500,
+    "current": 6600,
+    "discount": 60,
+    "avg": 8250,
+    "lowest": 6600,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 1222140,
     "title": "Detroit: Become Human",
     "searchKeys": "detroit become human 디트로이트 비컴 휴먼",
@@ -1558,6 +5098,18 @@
     "avg": 0,
     "lowest": 0,
     "lowestDate": "기본 무료 플레이"
+  },
+  {
+    "id": 1225330,
+    "title": "NBA 2K21",
+    "searchKeys": "nba 2k21 농구",
+    "genre": "스포츠 / 농구",
+    "orig": 65000,
+    "current": 9750,
+    "discount": 85,
+    "avg": 9750,
+    "lowest": 9750,
+    "lowestDate": "역대 최저가 타이"
   },
   {
     "id": 1229490,
@@ -1608,6 +5160,42 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 1238840,
+    "title": "Battlefield™ 1",
+    "searchKeys": "battlefield 1 배틀필드1 배필1",
+    "genre": "액션 / FPS",
+    "orig": 44000,
+    "current": 3080,
+    "discount": 93,
+    "avg": 4400,
+    "lowest": 2200,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
+    "id": 1238860,
+    "title": "Battlefield 4™",
+    "searchKeys": "battlefield 4 배틀필드4 배필4",
+    "genre": "액션 / FPS",
+    "orig": 44000,
+    "current": 3080,
+    "discount": 93,
+    "avg": 4400,
+    "lowest": 2200,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
+    "id": 1240440,
+    "title": "Halo Infinite",
+    "searchKeys": "halo infinite 헤일로 인피니트",
+    "genre": "액션 / FPS",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
+  },
+  {
     "id": 1245620,
     "title": "엘든 링",
     "searchKeys": "elden ring 엘든링 엘든 링",
@@ -1644,6 +5232,30 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 1252330,
+    "title": "DEATHLOOP",
+    "searchKeys": "deathloop 데스루프",
+    "genre": "액션 / FPS",
+    "orig": 67000,
+    "current": 13400,
+    "discount": 80,
+    "avg": 13400,
+    "lowest": 13400,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1259420,
+    "title": "Days Gone",
+    "searchKeys": "days gone 데이즈곤",
+    "genre": "액션 / 오픈월드",
+    "orig": 45800,
+    "current": 11450,
+    "discount": 75,
+    "avg": 11450,
+    "lowest": 11450,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 1260320,
     "title": "Party Animals",
     "searchKeys": "party animals 파티애니멀즈",
@@ -1654,6 +5266,54 @@
     "avg": 15050,
     "lowest": 12900,
     "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1262350,
+    "title": "SIGNALIS",
+    "searchKeys": "signalis 시그날리스",
+    "genre": "공포 / 인디",
+    "orig": 21500,
+    "current": 15050,
+    "discount": 30,
+    "avg": 15050,
+    "lowest": 15050,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1272080,
+    "title": "PAYDAY 3",
+    "searchKeys": "payday 3 페이데이3",
+    "genre": "액션 / FPS",
+    "orig": 44800,
+    "current": 17920,
+    "discount": 60,
+    "avg": 22400,
+    "lowest": 17920,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1274570,
+    "title": "DEVOUR",
+    "searchKeys": "devour 디바우어 공포",
+    "genre": "공포 / 협동",
+    "orig": 5500,
+    "current": 4400,
+    "discount": 20,
+    "avg": 4400,
+    "lowest": 4400,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1281930,
+    "title": "tModLoader",
+    "searchKeys": "tmodloader 티모드로더 테라리아 모드",
+    "genre": "인디 / 유틸리티",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
   },
   {
     "id": 1282100,
@@ -1668,10 +5328,46 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 1284210,
+    "title": "Guild Wars 2",
+    "searchKeys": "guild wars 2 길드워2",
+    "genre": "RPG / MMORPG",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
+  },
+  {
+    "id": 1286680,
+    "title": "Tiny Tina's Wonderlands",
+    "searchKeys": "tiny tina's wonderlands 타이니티나의 원더랜드",
+    "genre": "액션 / FPS",
+    "orig": 64900,
+    "current": 12980,
+    "discount": 80,
+    "avg": 16220,
+    "lowest": 12980,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 1286830,
     "title": "STAR WARS™: The Old Republic™",
     "searchKeys": "star wars 스타워즈",
     "genre": "RPG / MMORPG",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
+  },
+  {
+    "id": 1289310,
+    "title": "Helltaker",
+    "searchKeys": "helltaker 헬테이커",
+    "genre": "인디 / 퍼즐",
     "orig": 0,
     "current": 0,
     "discount": 0,
@@ -1704,6 +5400,42 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 1295660,
+    "title": "Sid Meier's Civilization® VII",
+    "searchKeys": "civilization 7 문명7 문명",
+    "genre": "전략 / 턴제",
+    "orig": 79800,
+    "current": 79800,
+    "discount": 0,
+    "avg": 79800,
+    "lowest": 79800,
+    "lowestDate": "할인 이력 없음"
+  },
+  {
+    "id": 1304930,
+    "title": "The Outlast Trials",
+    "searchKeys": "outlast trials 아웃라스트 트라이얼",
+    "genre": "공포 / 협동",
+    "orig": 42000,
+    "current": 21000,
+    "discount": 50,
+    "avg": 25200,
+    "lowest": 21000,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1307550,
+    "title": "Craftopia",
+    "searchKeys": "craftopia 크래프토피아",
+    "genre": "생존 / 크래프팅",
+    "orig": 26000,
+    "current": 15600,
+    "discount": 40,
+    "avg": 15600,
+    "lowest": 15600,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 1313140,
     "title": "Cult of the Lamb",
     "searchKeys": "cult of the lamb 컬트오브더램",
@@ -1713,6 +5445,18 @@
     "discount": 50,
     "avg": 16200,
     "lowest": 13500,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1321440,
+    "title": "Cassette Beasts",
+    "searchKeys": "cassette beasts 카세트 비스트",
+    "genre": "인디 / RPG",
+    "orig": 21500,
+    "current": 12900,
+    "discount": 40,
+    "avg": 15050,
+    "lowest": 12900,
     "lowestDate": "역대 최저가 타이"
   },
   {
@@ -1740,6 +5484,30 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 1328670,
+    "title": "Mass Effect™ Legendary Edition",
+    "searchKeys": "mass effect legendary edition 매스이펙트 레전더리",
+    "genre": "RPG / SF",
+    "orig": 66000,
+    "current": 6600,
+    "discount": 90,
+    "avg": 9900,
+    "lowest": 6600,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1329410,
+    "title": "雀魂麻將(MahjongSoul)",
+    "searchKeys": "mahjong soul 작혼 마작",
+    "genre": "캐주얼 / 보드게임",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
+  },
+  {
     "id": 1332010,
     "title": "Stray",
     "searchKeys": "stray 스트레이 고양이",
@@ -1749,6 +5517,42 @@
     "discount": 40,
     "avg": 22400,
     "lowest": 19200,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1338770,
+    "title": "Sniper Ghost Warrior Contracts 2",
+    "searchKeys": "sniper ghost warrior contracts 2 스나이퍼 고스트 워리어",
+    "genre": "액션 / FPS",
+    "orig": 41000,
+    "current": 8200,
+    "discount": 80,
+    "avg": 10250,
+    "lowest": 6150,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
+    "id": 1343400,
+    "title": "RuneScape",
+    "searchKeys": "runescape 룬스케이프",
+    "genre": "RPG / MMORPG",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
+  },
+  {
+    "id": 1361210,
+    "title": "Warhammer 40,000: Darktide",
+    "searchKeys": "warhammer 40000 darktide 워해머 다크타이드",
+    "genre": "액션 / FPS",
+    "orig": 44800,
+    "current": 22400,
+    "discount": 50,
+    "avg": 26880,
+    "lowest": 22400,
     "lowestDate": "역대 최저가 타이"
   },
   {
@@ -1776,6 +5580,54 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 1366540,
+    "title": "Dyson Sphere Program",
+    "searchKeys": "dyson sphere program 다이슨 스피어 프로그램",
+    "genre": "전략 / 시뮬레이션",
+    "orig": 21500,
+    "current": 17200,
+    "discount": 20,
+    "avg": 17200,
+    "lowest": 17200,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1369630,
+    "title": "ENDER LILIES: Quietus of the Knights",
+    "searchKeys": "ender lilies 엔더 릴리즈",
+    "genre": "인디 / 메트로배니아",
+    "orig": 27000,
+    "current": 10800,
+    "discount": 60,
+    "avg": 13500,
+    "lowest": 10800,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1371980,
+    "title": "No Rest for the Wicked",
+    "searchKeys": "no rest for the wicked 노 레스트 포 더 위키드",
+    "genre": "액션 / RPG",
+    "orig": 44800,
+    "current": 35840,
+    "discount": 20,
+    "avg": 35840,
+    "lowest": 35840,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1382330,
+    "title": "Persona 5 Strikers",
+    "searchKeys": "persona 5 strikers 페르소나5 스크램블",
+    "genre": "액션 / RPG",
+    "orig": 69800,
+    "current": 20940,
+    "discount": 70,
+    "avg": 20940,
+    "lowest": 20940,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 1384160,
     "title": "GUILTY GEAR -STRIVE-",
     "searchKeys": "guilty gear strive 길티기어 스트라이브",
@@ -1786,6 +5638,54 @@
     "avg": 24900,
     "lowest": 24900,
     "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1392820,
+    "title": "Milk inside a bag of milk inside a bag of milk",
+    "searchKeys": "milk inside a bag of milk 우유봉지",
+    "genre": "인디 / 비주얼노벨",
+    "orig": 1100,
+    "current": 550,
+    "discount": 50,
+    "avg": 660,
+    "lowest": 550,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1404210,
+    "title": "Red Dead Online",
+    "searchKeys": "red dead online 레데리 온라인",
+    "genre": "액션 / 오픈월드",
+    "orig": 23000,
+    "current": 11500,
+    "discount": 50,
+    "avg": 11500,
+    "lowest": 11500,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1418630,
+    "title": "Dread Hunger",
+    "searchKeys": "dread hunger 드레드 헝거",
+    "genre": "생존 / 추리",
+    "orig": 31000,
+    "current": 31000,
+    "discount": 0,
+    "avg": 31000,
+    "lowest": 15500,
+    "lowestDate": "2022년 겨울 할인"
+  },
+  {
+    "id": 1422450,
+    "title": "Deadlock",
+    "searchKeys": "deadlock 데드락 밸브",
+    "genre": "액션 / MOBA",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
   },
   {
     "id": 1426210,
@@ -1800,6 +5700,30 @@
     "lowestDate": "2024년 겨울 할인"
   },
   {
+    "id": 1432050,
+    "title": "Nobody Saves the World",
+    "searchKeys": "nobody saves the world 노바디 세이브즈 더 월드",
+    "genre": "인디 / RPG",
+    "orig": 26000,
+    "current": 10400,
+    "discount": 60,
+    "avg": 13000,
+    "lowest": 10400,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1435790,
+    "title": "Escape Simulator",
+    "searchKeys": "escape simulator 방탈출 시뮬레이터",
+    "genre": "인디 / 퍼즐",
+    "orig": 19500,
+    "current": 11700,
+    "discount": 40,
+    "avg": 13650,
+    "lowest": 11700,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 1446780,
     "title": "MONSTER HUNTER RISE",
     "searchKeys": "monster hunter rise 몬스터헌터 라이즈 몬헌",
@@ -1810,6 +5734,18 @@
     "avg": 17920,
     "lowest": 11200,
     "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1449560,
+    "title": "Metro Exodus Enhanced Edition",
+    "searchKeys": "metro exodus enhanced 메트로 엑소더스 인핸스드",
+    "genre": "액션 / FPS",
+    "orig": 33000,
+    "current": 6600,
+    "discount": 80,
+    "avg": 6600,
+    "lowest": 3300,
+    "lowestDate": "2024년 가을 할인"
   },
   {
     "id": 1449850,
@@ -1836,6 +5772,18 @@
     "lowestDate": "역대 최저가 타이"
   },
   {
+    "id": 1454400,
+    "title": "Cookie Clicker",
+    "searchKeys": "cookie clicker 쿠키클리커",
+    "genre": "인디 / 캐주얼",
+    "orig": 5500,
+    "current": 1870,
+    "discount": 66,
+    "avg": 2750,
+    "lowest": 1870,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
     "id": 1462040,
     "title": "FINAL FANTASY VII REMAKE INTERGRADE",
     "searchKeys": "final fantasy 7 remake 파이널판타지7 리메이크 파판7",
@@ -1845,6 +5793,66 @@
     "discount": 50,
     "avg": 39900,
     "lowest": 39900,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1465360,
+    "title": "SnowRunner",
+    "searchKeys": "snowrunner 스노우러너",
+    "genre": "스포츠 / 레이싱",
+    "orig": 34800,
+    "current": 17400,
+    "discount": 50,
+    "avg": 17400,
+    "lowest": 17400,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1466860,
+    "title": "Age of Empires IV: Anniversary Edition",
+    "searchKeys": "age of empires 4 에이지오브엠파이어4",
+    "genre": "전략 / RTS",
+    "orig": 44900,
+    "current": 22450,
+    "discount": 50,
+    "avg": 22450,
+    "lowest": 14810,
+    "lowestDate": "2024년 가을 할인"
+  },
+  {
+    "id": 1468810,
+    "title": "鬼谷八荒 Tale of Immortal",
+    "searchKeys": "tale of immortal 귀곡팔황",
+    "genre": "인디 / RPG",
+    "orig": 20500,
+    "current": 14350,
+    "discount": 30,
+    "avg": 16400,
+    "lowest": 14350,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 1493710,
+    "title": "Proton Experimental",
+    "searchKeys": "proton 프로톤 스팀덱",
+    "genre": "유틸리티 / 툴",
+    "orig": 0,
+    "current": 0,
+    "discount": 0,
+    "avg": 0,
+    "lowest": 0,
+    "lowestDate": "기본 무료 플레이"
+  },
+  {
+    "id": 1501750,
+    "title": "Lords of the Fallen",
+    "searchKeys": "lords of the fallen 로드 오브 더 폴른",
+    "genre": "RPG / 소울라이크",
+    "orig": 64800,
+    "current": 25920,
+    "discount": 60,
+    "avg": 32400,
+    "lowest": 25920,
     "lowestDate": "역대 최저가 타이"
   },
   {
@@ -2397,6 +6405,18 @@
     "discount": 20,
     "avg": 84800,
     "lowest": 67840,
+    "lowestDate": "역대 최저가 타이"
+  },
+  {
+    "id": 3240220,
+    "title": "Grand Theft Auto V Enhanced",
+    "searchKeys": "gta 5 enhanced 그타5 인핸스드",
+    "genre": "액션 / 오픈월드",
+    "orig": 44000,
+    "current": 22000,
+    "discount": 50,
+    "avg": 22000,
+    "lowest": 22000,
     "lowestDate": "역대 최저가 타이"
   }
 ]
